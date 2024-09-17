@@ -996,3 +996,1425 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.09.17-19.50.47:822][ 27]LogMeshUtilities: Finished distance field build in 1.0s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 67% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
 [2024.09.17-19.50.52:924][ 42]LogMeshUtilities: Finished distance field build in 1.0s - 126x126x126 sparse distance field, 2.1Mb total, 0.1Mb always loaded, 59% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
 [2024.09.17-19.50.54:923][ 48]LogMeshUtilities: Finished distance field build in 1.1s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 69% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.09.17-19.52.33:008][342]LogDerivedDataCache: C:/Users/Adam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.008 and deleted 0 files with total size 0 MiB and 14 empty folders. Scanned 0 files in 16 folders with total size 0 MiB.
+[2024.09.17-19.53.51:885][771]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.09.17-19.53.51:952][771]LogContentBrowser: Creating deferred item: NewFolder
+[2024.09.17-19.53.51:954][771]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.09.17-19.53.51:971][773]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.09.17-19.53.53:539][958]LogContentBrowser: Attempting asset rename: NewFolder -> Framework
+[2024.09.17-19.53.53:539][958]LogContentBrowser: End creating deferred item NewFolder
+[2024.09.17-19.54.13:750][859]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.09.17-19.54.13:762][859]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.09.17-19.54.13:768][859]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.09.17-19.54.13:786][861]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.09.17-19.54.19:959][582]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_GameMode
+[2024.09.17-19.54.19:971][582]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.09.17-19.54.40:865][935]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.09.17-19.54.40:872][935]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.09.17-19.54.40:878][935]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.09.17-19.54.40:892][937]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.09.17-19.54.45:583][485]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_FPCharacter
+[2024.09.17-19.54.45:589][485]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.09.17-19.55.02:141][368]LogSlate: External Image Picker: DecompressImage failed
+[2024.09.17-19.55.26:679][929]LogSlate: Window 'Project Settings' being destroyed
+[2024.09.17-19.55.26:685][929]LogSlate: Window 'Project Settings' being destroyed
+[2024.09.17-19.55.28:901][174]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.17-19.55.28:918][174]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.09.17-19.55.28:918][174]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2024.09.17-19.55.28:927][174]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 8.595 ms
+[2024.09.17-19.55.28:934][174]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.17-19.55.28:935][174]LogPlayLevel: Display: Creating online subsystem for client :Context_2
+[2024.09.17-19.55.28:936][174]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2024.09.17-19.55.28:953][175]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2024.09.17-19.55.28:963][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009827s)
+[2024.09.17-19.55.28:963][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.009873s)
+[2024.09.17-19.55.28:970][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.09.17-19.55.28:971][175]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.17-19.55.28:972][175]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.09.17-19.55.28:972][175]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.17-19.55.28:972][175]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.09.17-19.55.28:972][175]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.09.17-19.55.28:979][175]LogContentBundle: [Untitled_1(Standalone)] Creating new container.
+[2024.09.17-19.55.28:982][175]LogWorldPartition: Display: WorldPartition initialize took 8.662 ms (total: 229.414 ms)
+[2024.09.17-19.55.28:982][175]LogPlayLevel: PIE: World Init took: (0.009577s)
+[2024.09.17-19.55.29:081][175]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.09.17-19.55.29:082][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.17-19.55.29:082][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.17-19.55.29:082][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.17-19.55.29:082][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.17-19.55.29:082][175]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.17-19.55.29:082][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.17-19.55.29:082][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.17-19.55.29:082][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.17-19.55.29:082][175]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.17-19.55.29:082][175]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.17-19.55.29:082][175]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.17-19.55.29:083][175]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.17-19.55.29:099][175]LogAudioMixer: Display: Using Audio Hardware Device SPEAKER (Realtek(R) Audio)
+[2024.09.17-19.55.29:099][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.17-19.55.29:099][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.17-19.55.29:099][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.17-19.55.29:099][175]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.09.17-19.55.29:099][175]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.09.17-19.55.29:101][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.09.17-19.55.29:101][175]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.09.17-19.55.29:101][175]LogInit: FAudioDevice initialized with ID 2.
+[2024.09.17-19.55.29:101][175]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2024.09.17-19.55.29:101][175]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.09.17-19.55.29:103][175]LogLoad: Game class is 'BP_GameMode_C'
+[2024.09.17-19.55.29:105][175]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2024.09.17-15.55.29
+[2024.09.17-19.55.29:105][175]LogWorld: Bringing up level for play took: 0.001241
+[2024.09.17-19.55.29:117][175]LogStreaming: Display: FlushAsyncLoading(): 44 QueuedPackages, 0 AsyncPackages
+[2024.09.17-19.55.29:483][175]PIE: Server logged in
+[2024.09.17-19.55.29:484][175]PIE: Play in editor total start time 0.578 seconds.
+[2024.09.17-19.55.37:570][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.17-19.55.37:570][ 70]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2024.09.17-19.55.37:585][ 70]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.09.17-19.55.37:585][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.17-19.55.37:585][ 70]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1
+[2024.09.17-19.55.37:585][ 70]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.09.17-19.55.37:585][ 70]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.17-19.55.37:585][ 70]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.17-19.55.37:588][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.17-19.55.37:591][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.17-19.55.37:595][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.17-19.55.37:595][ 70]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.09.17-19.55.37:595][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.09.17-19.55.37:597][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.09.17-19.55.37:609][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.09.17-19.55.37:740][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2024.09.17-19.55.45:674][990]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Framework/BP_GameMode.BP_GameMode
+[2024.09.17-19.55.48:443][144]LogSlate: Window 'BP_GameMode' being destroyed
+[2024.09.17-19.56.10:121][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.17-19.56.10:164][694]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/BP_GameMode] ([2] browsable assets)...
+[2024.09.17-19.56.10:164][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/BP_GameMode]
+[2024.09.17-19.56.10:164][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/BP_GameMode" FILE="../../../../GDW-5/Tutorial2/Tutorial2/Content/Framework/BP_GameMode.uasset" SILENT=true
+[2024.09.17-19.56.10:176][694]LogPackageLocalizationCache: Processed 51 localized package path(s) for 1 prioritized culture(s) in 0.007101 seconds
+[2024.09.17-19.56.10:196][694]LogSavePackage: Moving output files for package: /Game/Framework/BP_GameMode
+[2024.09.17-19.56.10:196][694]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/BP_GameMode42F34DB94A255D2A0713998F6DACD388.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/Framework/BP_GameMode.uasset'
+[2024.09.17-19.56.10:224][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.036 ms
+[2024.09.17-19.56.10:260][694]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.17-19.56.10:260][694]LogContentValidation: Enabled validators:
+[2024.09.17-19.56.10:262][694]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.17-19.56.10:262][694]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.17-19.56.10:262][694]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.17-19.56.10:262][694]LogContentValidation: Display: Validating asset /Game/Framework/BP_GameMode.BP_GameMode
+[2024.09.17-19.56.10:262][694]AssetCheck: /Game/Framework/BP_GameMode Validating asset
+[2024.09.17-19.56.10:817][757]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.09.17-19.56.10:817][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.17-19.56.10:854][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.09.17-19.56.23:642][264]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.09.17-19.56.27:044][602]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.09.17-19.56.27:044][602]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.09.17-19.56.27:052][602]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Temp/Untitled_1.Untitled_1:PersistentLevel.PlayerStart_UAID_04421A092FB1271D02_2037197983
+[2024.09.17-19.56.27:052][602]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.17-19.56.27:060][602]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Temp/Untitled_1.Untitled_1:PersistentLevel.PlayerStart_UAID_04421A092FB1271D02_2037197983
+[2024.09.17-19.56.27:060][602]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.17-19.56.27:081][602]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.17-19.56.33:329][286]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.17-19.56.36:165][597]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.09.17-19.56.36:322][612]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: ================================================
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Total job queries 155, among them cache hits 11 (7.10%), DDC hits 124 (80.00%), Duplicates 5 (3.23%)
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Tracking 139 distinct input hashes that result in 132 distinct outputs (94.96%)
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: RAM used: 4.87 MiB of 819.20 MiB budget. Usage: 0.60%
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Shaders Compiled: 15
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Jobs assigned 15, completed 15 (100%)
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Average time worker was idle: 0.53 s
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 1.34 s
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Job life time (pending + execution): average 0.87 s, max 1.45
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Shader code size: average 33.11 KiB, min 27.895 KiB, max 40.465 KiB
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.35 s
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Average processing rate: 4.48 jobs/sec
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Total thread time: 6.294 s
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Total thread preprocess time: 2.043 s
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Percentage time preprocessing: 32.46%
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Effective parallelization: 1.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.50 sec, max 0.55 sec, min 0.42 sec)
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.39 sec, max 0.41 sec, min 0.38 sec)
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.63% of total time (compiled    3 times, average 0.50 sec, max 0.55 sec, min 0.42 sec)
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.82% of total time (compiled    3 times, average 0.27 sec, max 0.30 sec, min 0.23 sec)
+[2024.09.17-19.56.39:512][956]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.55% of total time (compiled    2 times, average 0.39 sec, max 0.41 sec, min 0.38 sec)
+[2024.09.17-19.56.39:513][956]LogShaderCompilers: Display:                                                  FVelocityPS - 12.39% of total time (compiled    2 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.09.17-19.56.39:513][956]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.43% of total time (compiled    2 times, average 0.30 sec, max 0.31 sec, min 0.28 sec)
+[2024.09.17-19.56.39:513][956]LogShaderCompilers: Display: === Material stats ===
+[2024.09.17-19.56.39:513][956]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.17-19.56.39:513][956]LogShaderCompilers: Display: Materials Translated:    117
+[2024.09.17-19.56.39:513][956]LogShaderCompilers: Display: Material Total Translate Time: 0.05 s
+[2024.09.17-19.56.39:513][956]LogShaderCompilers: Display: Material Translation Only: 0.02 s (42%)
+[2024.09.17-19.56.39:513][956]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2024.09.17-19.56.39:513][956]LogShaderCompilers: Display: Material Cache Hits: 35 (30%)
+[2024.09.17-19.56.39:513][956]LogShaderCompilers: Display: ================================================
+[2024.09.17-19.56.41:363][178]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.17-19.56.45:521][640]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.17-19.56.49:542][ 75]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.17-19.56.50:633][204]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.17-19.56.51:615][320]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.17-19.56.52:088][375]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.17-19.57.06:945][977]Cmd: DELETE
+[2024.09.17-19.57.06:945][977]Cmd: ACTOR DELETE
+[2024.09.17-19.57.06:982][977]LogEditorActor: Deleted Actor: PlayerStart
+[2024.09.17-19.57.06:984][977]LogEditorActor: Deleted Actor: PlayerStart
+[2024.09.17-19.57.07:001][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.09.17-19.57.07:003][977]LogEditorActor: Deleted 2 Actors (0.039 secs)
+[2024.09.17-19.57.10:620][317]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.09.17-19.57.10:620][317]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.09.17-19.57.10:625][317]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Temp/Untitled_1.Untitled_1:PersistentLevel.PlayerStart_UAID_04421A092FB1271D02_2080773984
+[2024.09.17-19.57.10:625][317]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.17-19.57.10:626][317]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Temp/Untitled_1.Untitled_1:PersistentLevel.PlayerStart_UAID_04421A092FB1271D02_2080773984
+[2024.09.17-19.57.10:626][317]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.17-19.57.10:642][317]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.17-19.57.14:187][696]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.17-19.57.56:137][539]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.17-19.57.56:157][539]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.09.17-19.57.56:157][539]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2024.09.17-19.57.56:162][539]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 5.565 ms (total: 14.161 ms)
+[2024.09.17-19.57.56:170][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.17-19.57.56:205][539]LogPlayLevel: Display: Creating online subsystem for client :Context_5
+[2024.09.17-19.57.56:206][539]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.09.17-19.57.56:219][540]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2024.09.17-19.57.56:229][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009684s)
+[2024.09.17-19.57.56:229][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.009717s)
+[2024.09.17-19.57.56:244][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.09.17-19.57.56:245][540]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.17-19.57.56:246][540]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.09.17-19.57.56:246][540]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.17-19.57.56:246][540]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.09.17-19.57.56:246][540]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.09.17-19.57.56:252][540]LogContentBundle: [Untitled_1(Standalone)] Creating new container.
+[2024.09.17-19.57.56:252][540]LogWorldPartition: Display: WorldPartition initialize took 6.483 ms (total: 235.898 ms)
+[2024.09.17-19.57.56:252][540]LogPlayLevel: PIE: World Init took: (0.007438s)
+[2024.09.17-19.57.56:346][540]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.09.17-19.57.56:346][540]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.17-19.57.56:346][540]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.17-19.57.56:346][540]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.17-19.57.56:346][540]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.17-19.57.56:346][540]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.17-19.57.56:346][540]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.17-19.57.56:346][540]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.17-19.57.56:346][540]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.17-19.57.56:346][540]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.17-19.57.56:346][540]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.17-19.57.56:346][540]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.17-19.57.56:347][540]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.17-19.57.56:364][540]LogAudioMixer: Display: Using Audio Hardware Device SPEAKER (Realtek(R) Audio)
+[2024.09.17-19.57.56:364][540]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.17-19.57.56:364][540]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.17-19.57.56:364][540]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.17-19.57.56:365][540]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.09.17-19.57.56:365][540]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.09.17-19.57.56:366][540]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.09.17-19.57.56:366][540]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.09.17-19.57.56:366][540]LogInit: FAudioDevice initialized with ID 3.
+[2024.09.17-19.57.56:366][540]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled_1'.
+[2024.09.17-19.57.56:366][540]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.09.17-19.57.56:368][540]LogLoad: Game class is 'BP_GameMode_C'
+[2024.09.17-19.57.56:369][540]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2024.09.17-15.57.56
+[2024.09.17-19.57.56:369][540]LogWorld: Bringing up level for play took: 0.001533
+[2024.09.17-19.57.56:375][540]LogStreaming: Display: FlushAsyncLoading(): 44 QueuedPackages, 0 AsyncPackages
+[2024.09.17-19.57.56:644][540]PIE: Server logged in
+[2024.09.17-19.57.56:644][540]PIE: Play in editor total start time 0.503 seconds.
+[2024.09.17-19.58.00:712][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.17-19.58.00:712][  3]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2024.09.17-19.58.00:725][  3]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.09.17-19.58.00:726][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.17-19.58.00:726][  3]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1
+[2024.09.17-19.58.00:726][  3]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.09.17-19.58.00:726][  3]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.17-19.58.00:726][  3]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.17-19.58.00:728][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.17-19.58.00:732][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.17-19.58.00:748][  3]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.17-19.58.00:749][  3]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.09.17-19.58.00:749][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.09.17-19.58.00:750][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.09.17-19.58.00:753][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.17-19.58.00:762][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.09.17-19.58.00:910][  4]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: ================================================
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Total job queries 163, among them cache hits 11 (6.75%), DDC hits 124 (76.07%), Duplicates 5 (3.07%)
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Tracking 147 distinct input hashes that result in 138 distinct outputs (93.88%)
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: RAM used: 5.00 MiB of 819.20 MiB budget. Usage: 0.61%
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Shaders Compiled: 23
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Jobs assigned 23, completed 23 (100%)
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Average time worker was idle: 34.81 s
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Job execution time: average 0.86 s, max 1.34 s
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Job life time (pending + execution): average 0.91 s, max 1.45
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Shader code size: average 33.192 KiB, min 27.895 KiB, max 40.465 KiB
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.75 s
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Average processing rate: 4.00 jobs/sec
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Total thread time: 9.374 s
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Total thread preprocess time: 2.117 s
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Percentage time preprocessing: 22.58%
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Effective parallelization: 1.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.53 sec, max 0.60 sec, min 0.42 sec)
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    4 times, average 0.41 sec, max 0.43 sec, min 0.38 sec)
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.35% of total time (compiled    5 times, average 0.53 sec, max 0.60 sec, min 0.42 sec)
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 17.39% of total time (compiled    4 times, average 0.41 sec, max 0.43 sec, min 0.38 sec)
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.34% of total time (compiled    5 times, average 0.27 sec, max 0.30 sec, min 0.23 sec)
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.00% of total time (compiled    4 times, average 0.28 sec, max 0.31 sec, min 0.26 sec)
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display:                                                  FVelocityPS - 8.32% of total time (compiled    2 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: === Material stats ===
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Materials Translated:    117
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Material Total Translate Time: 0.05 s
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Material Translation Only: 0.02 s (42%)
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: Material Cache Hits: 35 (30%)
+[2024.09.17-19.59.39:521][810]LogShaderCompilers: Display: ================================================
+[2024.09.17-20.00.55:439][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.09.17-20.00.55:442][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../GDW-5/Tutorial2/Tutorial2/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.09.17-20.00.55:445][772]LogSavePackage: Moving output files for package: /Temp/Autosaves/Temp/Untitled_1_Auto1
+[2024.09.17-20.00.55:445][772]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/Untitled_1_Auto12F2F8E0947BC0DF7D0F63CADC8C6AB05.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2024.09.17-20.00.55:445][772]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../GDW-5/Tutorial2/Tutorial2/Saved/Autosaves/Temp/Untitled_1_Auto1.umap is in the /Temp path, will not scan.
+[2024.09.17-20.00.55:445][772]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Temp/Untitled_1_Auto1 is in the /Temp path, will not scan.
+[2024.09.17-20.00.55:445][772]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Temp/Untitled_1_Auto1 is in the /Temp path, will not scan.
+[2024.09.17-20.00.55:446][772]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.025
+[2024.09.17-20.00.55:446][772]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
+[2024.09.17-20.00.55:447][772]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_FPCharacter] ([2] browsable assets)...
+[2024.09.17-20.00.55:447][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_FPCharacter]
+[2024.09.17-20.00.55:447][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FPCharacter" FILE="../../../../GDW-5/Tutorial2/Tutorial2/Saved/Autosaves/Game/Blueprints/BP_FPCharacter_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.09.17-20.00.55:449][772]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_FPCharacter_Auto1
+[2024.09.17-20.00.55:449][772]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/BP_FPCharacter_Auto15A5CC3854D254563A138E2AB16950ABB.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Saved/Autosaves/Game/Blueprints/BP_FPCharacter_Auto1.uasset'
+[2024.09.17-20.00.55:450][772]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.09.17-20.02.01:185][331]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.09.17-20.02.01:196][331]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.09.17-20.02.02:884][437]LogSlate: External Image Picker: DecompressImage failed
+[2024.09.17-20.02.11:142][197]LogSlate: Window 'Project Settings' being destroyed
+[2024.09.17-20.02.11:152][197]LogSlate: Window 'Project Settings' being destroyed
+[2024.09.17-20.02.15:005][631]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Framework/BP_GameMode.BP_GameMode
+[2024.09.17-20.02.20:266][224]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.09.17-20.02.20:266][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.17-20.02.20:296][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.09.17-20.02.48:571][498]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.17-20.03.03:344][431]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.17-20.03.12:047][441]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.17-20.03.12:067][441]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.09.17-20.03.12:067][441]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2024.09.17-20.03.12:071][441]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 4.527 ms (total: 18.689 ms)
+[2024.09.17-20.03.12:076][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.17-20.03.12:103][441]LogPlayLevel: Display: Creating online subsystem for client :Context_7
+[2024.09.17-20.03.12:106][441]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.09.17-20.03.12:117][442]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2024.09.17-20.03.12:125][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007697s)
+[2024.09.17-20.03.12:125][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007733s)
+[2024.09.17-20.03.12:139][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.09.17-20.03.12:141][442]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.17-20.03.12:142][442]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.09.17-20.03.12:142][442]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.17-20.03.12:142][442]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.09.17-20.03.12:142][442]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.09.17-20.03.12:149][442]LogContentBundle: [Untitled_1(Standalone)] Creating new container.
+[2024.09.17-20.03.12:149][442]LogWorldPartition: Display: WorldPartition initialize took 6.697 ms (total: 242.595 ms)
+[2024.09.17-20.03.12:149][442]LogPlayLevel: PIE: World Init took: (0.007569s)
+[2024.09.17-20.03.12:243][442]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.09.17-20.03.12:243][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.17-20.03.12:243][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.17-20.03.12:243][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.17-20.03.12:243][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.17-20.03.12:243][442]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.17-20.03.12:243][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.17-20.03.12:243][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.17-20.03.12:243][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.17-20.03.12:243][442]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.17-20.03.12:243][442]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.17-20.03.12:243][442]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.17-20.03.12:244][442]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.17-20.03.12:259][442]LogAudioMixer: Display: Using Audio Hardware Device SPEAKER (Realtek(R) Audio)
+[2024.09.17-20.03.12:260][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.17-20.03.12:260][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.17-20.03.12:260][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.17-20.03.12:260][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.09.17-20.03.12:260][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.09.17-20.03.12:262][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.09.17-20.03.12:262][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.09.17-20.03.12:262][442]LogInit: FAudioDevice initialized with ID 4.
+[2024.09.17-20.03.12:262][442]LogAudio: Display: Audio Device (ID: 4) registered with world 'Untitled_1'.
+[2024.09.17-20.03.12:262][442]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.09.17-20.03.12:263][442]LogLoad: Game class is 'BP_GameMode_C'
+[2024.09.17-20.03.12:264][442]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2024.09.17-16.03.12
+[2024.09.17-20.03.12:265][442]LogWorld: Bringing up level for play took: 0.001244
+[2024.09.17-20.03.12:269][442]LogStreaming: Display: FlushAsyncLoading(): 44 QueuedPackages, 0 AsyncPackages
+[2024.09.17-20.03.12:540][442]PIE: Server logged in
+[2024.09.17-20.03.12:541][442]PIE: Play in editor total start time 0.49 seconds.
+[2024.09.17-20.03.18:450][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.17-20.03.18:450][ 96]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2024.09.17-20.03.18:464][ 96]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.09.17-20.03.18:464][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.17-20.03.18:464][ 96]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1
+[2024.09.17-20.03.18:464][ 96]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.09.17-20.03.18:464][ 96]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.17-20.03.18:464][ 96]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.17-20.03.18:466][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.17-20.03.18:470][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.17-20.03.18:488][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.17-20.03.18:489][ 96]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.09.17-20.03.18:489][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.09.17-20.03.18:490][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.09.17-20.03.18:501][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.09.17-20.03.18:641][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.09.17-20.04.20:691][848]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.09.17-20.04.20:702][848]LogContentBrowser: Creating deferred item: NewFolder
+[2024.09.17-20.04.20:711][849]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.09.17-20.04.24:518][297]LogContentBrowser: Attempting asset rename: NewFolder -> Player
+[2024.09.17-20.04.24:519][297]LogContentBrowser: End creating deferred item NewFolder
+[2024.09.17-20.04.28:557][732]LogMetaData: Removing '/Game/Blueprints/Player/BP_FPCharacter.BP_FPCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_FPCharacter.PackageMetaData'
+[2024.09.17-20.04.28:557][732]LogMetaData: Removing '/Game/Blueprints/Player/BP_FPCharacter.SKEL_BP_FPCharacter_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_FPCharacter.PackageMetaData'
+[2024.09.17-20.04.28:557][732]LogMetaData: Removing '/Game/Blueprints/Player/BP_FPCharacter.SKEL_BP_FPCharacter_C' ref from Metadata '/Game/Blueprints/BP_FPCharacter.PackageMetaData'
+[2024.09.17-20.04.28:557][732]LogMetaData: Removing '/Game/Blueprints/Player/BP_FPCharacter.BP_FPCharacter_C' ref from Metadata '/Game/Blueprints/BP_FPCharacter.PackageMetaData'
+[2024.09.17-20.04.28:557][732]LogMetaData: Removing '/Game/Blueprints/Player/BP_FPCharacter.BP_FPCharacter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_FPCharacter.PackageMetaData'
+[2024.09.17-20.04.28:557][732]LogMetaData: Removing '/Game/Blueprints/Player/BP_FPCharacter.BP_FPCharacter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_FPCharacter.PackageMetaData'
+[2024.09.17-20.04.28:557][732]LogMetaData: Removing '/Game/Blueprints/Player/BP_FPCharacter.BP_FPCharacter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_FPCharacter.PackageMetaData'
+[2024.09.17-20.04.28:565][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.17-20.04.28:610][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Framework/BP_GameMode] ([2] browsable assets)...
+[2024.09.17-20.04.28:610][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Framework/BP_GameMode]
+[2024.09.17-20.04.28:610][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/BP_GameMode" FILE="../../../../GDW-5/Tutorial2/Tutorial2/Content/Framework/BP_GameMode.uasset" SILENT=true
+[2024.09.17-20.04.28:612][732]LogSavePackage: Moving output files for package: /Game/Framework/BP_GameMode
+[2024.09.17-20.04.28:612][732]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/BP_GameMode5F9C04B0415B93A665E0EA921E76E7F7.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/Framework/BP_GameMode.uasset'
+[2024.09.17-20.04.28:613][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_FPCharacter] ([2] browsable assets)...
+[2024.09.17-20.04.28:613][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_FPCharacter]
+[2024.09.17-20.04.28:613][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_FPCharacter" FILE="../../../../GDW-5/Tutorial2/Tutorial2/Content/Blueprints/Player/BP_FPCharacter.uasset" SILENT=true
+[2024.09.17-20.04.28:616][732]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_FPCharacter
+[2024.09.17-20.04.28:616][732]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/BP_FPCharacter7B6993854A5E730AF61607837F75599D.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/Blueprints/Player/BP_FPCharacter.uasset'
+[2024.09.17-20.04.28:636][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.084 ms (total: 174.120 ms)
+[2024.09.17-20.04.28:662][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.09.17-20.04.28:680][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.09.17-20.04.28:693][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.09.17-20.04.28:715][732]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.09.17-20.04.28:715][732]LogContentValidation: Display: Starting to validate 2 assets
+[2024.09.17-20.04.28:715][732]LogContentValidation: Enabled validators:
+[2024.09.17-20.04.28:715][732]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.17-20.04.28:715][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.17-20.04.28:715][732]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.17-20.04.28:715][732]LogContentValidation: Display: Validating asset /Game/Framework/BP_GameMode.BP_GameMode
+[2024.09.17-20.04.28:715][732]AssetCheck: /Game/Framework/BP_GameMode Validating asset
+[2024.09.17-20.04.28:715][732]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/BP_FPCharacter.BP_FPCharacter
+[2024.09.17-20.04.28:715][732]AssetCheck: /Game/Blueprints/Player/BP_FPCharacter Validating asset
+[2024.09.17-20.04.31:429][ 14]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.09.17-20.04.36:277][585]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.09.17-20.04.36:333][585]LogContentBrowser: Creating deferred item: NewFolder
+[2024.09.17-20.04.36:343][586]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.09.17-20.04.38:726][866]LogContentBrowser: Attempting asset rename: NewFolder -> InputActions
+[2024.09.17-20.04.38:727][866]LogContentBrowser: End creating deferred item NewFolder
+[2024.09.17-20.04.52:834][449]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2024.09.17-20.04.52:841][449]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2024.09.17-20.04.52:882][451]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2024.09.17-20.05.17:975][447]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_Default
+[2024.09.17-20.05.17:976][447]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2024.09.17-20.05.33:672][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.17-20.05.33:706][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/IMC_Default] ([1] browsable assets)...
+[2024.09.17-20.05.33:706][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/IMC_Default]
+[2024.09.17-20.05.33:706][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/IMC_Default" FILE="../../../../GDW-5/Tutorial2/Tutorial2/Content/Blueprints/Player/IMC_Default.uasset" SILENT=true
+[2024.09.17-20.05.33:707][301]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/IMC_Default
+[2024.09.17-20.05.33:707][301]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/IMC_Default4B65A1AF4EF059E7C082A88973C52D65.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/Blueprints/Player/IMC_Default.uasset'
+[2024.09.17-20.05.33:723][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.369 ms (total: 225.489 ms)
+[2024.09.17-20.05.33:750][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.09.17-20.05.33:767][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.09.17-20.05.33:781][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.09.17-20.05.33:796][301]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.09.17-20.05.33:796][301]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.17-20.05.33:796][301]LogContentValidation: Enabled validators:
+[2024.09.17-20.05.33:796][301]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.17-20.05.33:796][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.17-20.05.33:796][301]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.17-20.05.33:796][301]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/IMC_Default.IMC_Default
+[2024.09.17-20.05.33:796][301]AssetCheck: /Game/Blueprints/Player/IMC_Default Validating asset
+[2024.09.17-20.05.51:626][331]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.09.17-20.05.51:633][331]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.09.17-20.05.51:671][333]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.09.17-20.05.59:901][317]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Move
+[2024.09.17-20.05.59:902][317]LogContentBrowser: End creating deferred item NewInputAction
+[2024.09.17-20.06.04:342][778]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.09.17-20.06.04:349][778]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.09.17-20.06.04:358][779]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.09.17-20.06.07:794][185]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Look
+[2024.09.17-20.06.07:795][185]LogContentBrowser: End creating deferred item NewInputAction
+[2024.09.17-20.06.12:951][739]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.09.17-20.06.12:957][739]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.09.17-20.06.12:967][740]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.09.17-20.06.15:723][ 66]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Jump
+[2024.09.17-20.06.15:725][ 66]LogContentBrowser: End creating deferred item NewInputAction
+[2024.09.17-20.06.25:109][182]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Blueprints/Player/InputActions/IA_Move.IA_Move
+[2024.09.17-20.06.27:723][436]LogSlate: Window 'IA_Move' being destroyed
+[2024.09.17-20.06.29:282][585]LogSlate: Window 'IA_Move' being destroyed
+[2024.09.17-20.06.34:287][168]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2024.09.17-20.06.34:320][168]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.033 s
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: === Handled ensure: ===
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: 
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: Ensure condition failed: !PersistentLayout->PrimaryArea.IsValid()  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Docking\TabManager.cpp] [Line: 932] 
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: 
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: Stack: 
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: [Callstack] 0x00007ffd0fcb0f43 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: [Callstack] 0x00007ffd0fcccebf UnrealEditor-Slate.dll!UnknownFunction []
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: [Callstack] 0x00007ffd0fc37a4d UnrealEditor-Slate.dll!UnknownFunction []
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: [Callstack] 0x00007ffd14e9edcf UnrealEditor-Core.dll!UnknownFunction []
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: [Callstack] 0x00007ffd14ec58fd UnrealEditor-Core.dll!UnknownFunction []
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: [Callstack] 0x00007ff7da67d011 UnrealEditor.exe!UnknownFunction []
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: [Callstack] 0x00007ff7da69e33c UnrealEditor.exe!UnknownFunction []
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: [Callstack] 0x00007ff7da69e42a UnrealEditor.exe!UnknownFunction []
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: [Callstack] 0x00007ff7da6a18a4 UnrealEditor.exe!UnknownFunction []
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: [Callstack] 0x00007ff7da6b70c4 UnrealEditor.exe!UnknownFunction []
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: [Callstack] 0x00007ff7da6ba37a UnrealEditor.exe!UnknownFunction []
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: [Callstack] 0x00007ffdebee257d KERNEL32.DLL!UnknownFunction []
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: [Callstack] 0x00007ffded6caf28 ntdll.dll!UnknownFunction []
+[2024.09.17-20.06.34:321][168]LogOutputDevice: Error: 
+[2024.09.17-20.06.34:328][168]LogStats:                SubmitErrorReport -  0.000 s
+[2024.09.17-20.06.36:298][168]LogStats:                    SendNewReport -  1.969 s
+[2024.09.17-20.06.36:298][168]LogStats:             FDebug::EnsureFailed -  2.010 s
+[2024.09.17-20.06.39:990][538]LogSlate: Window 'IA_Move' being destroyed
+[2024.09.17-20.07.11:577][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.17-20.07.11:618][831]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/InputActions/IA_Move] ([1] browsable assets)...
+[2024.09.17-20.07.11:618][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/InputActions/IA_Move]
+[2024.09.17-20.07.11:618][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/InputActions/IA_Move" FILE="../../../../GDW-5/Tutorial2/Tutorial2/Content/Blueprints/Player/InputActions/IA_Move.uasset" SILENT=true
+[2024.09.17-20.07.11:618][831]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/InputActions/IA_Move
+[2024.09.17-20.07.11:618][831]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/IA_Move4A4B40644C7E8BF803DB09963906D32E.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/Blueprints/Player/InputActions/IA_Move.uasset'
+[2024.09.17-20.07.11:634][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.712 ms (total: 281.201 ms)
+[2024.09.17-20.07.11:678][831]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.17-20.07.11:678][831]LogContentValidation: Enabled validators:
+[2024.09.17-20.07.11:678][831]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.17-20.07.11:678][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.17-20.07.11:678][831]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.17-20.07.11:678][831]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/InputActions/IA_Move.IA_Move
+[2024.09.17-20.07.11:678][831]AssetCheck: /Game/Blueprints/Player/InputActions/IA_Move Validating asset
+[2024.09.17-20.07.12:476][910]LogSlate: Window 'IA_Move' being destroyed
+[2024.09.17-20.07.12:482][910]LogSlate: Window 'IA_Move' being destroyed
+[2024.09.17-20.07.14:055][ 71]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Blueprints/Player/InputActions/IA_Look.IA_Look
+[2024.09.17-20.07.18:061][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.17-20.07.18:104][479]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/InputActions/IA_Look] ([1] browsable assets)...
+[2024.09.17-20.07.18:104][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/InputActions/IA_Look]
+[2024.09.17-20.07.18:104][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/InputActions/IA_Look" FILE="../../../../GDW-5/Tutorial2/Tutorial2/Content/Blueprints/Player/InputActions/IA_Look.uasset" SILENT=true
+[2024.09.17-20.07.18:105][479]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/InputActions/IA_Look
+[2024.09.17-20.07.18:105][479]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/IA_LookF7F32C694E87DC9513617D8466B76A99.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/Blueprints/Player/InputActions/IA_Look.uasset'
+[2024.09.17-20.07.18:120][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.751 ms (total: 339.953 ms)
+[2024.09.17-20.07.18:155][479]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.17-20.07.18:155][479]LogContentValidation: Enabled validators:
+[2024.09.17-20.07.18:155][479]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.17-20.07.18:155][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.17-20.07.18:155][479]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.17-20.07.18:155][479]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/InputActions/IA_Look.IA_Look
+[2024.09.17-20.07.18:155][479]AssetCheck: /Game/Blueprints/Player/InputActions/IA_Look Validating asset
+[2024.09.17-20.07.19:117][566]LogSlate: Window 'IA_Look' being destroyed
+[2024.09.17-20.07.19:123][566]LogSlate: Window 'IA_Look' being destroyed
+[2024.09.17-20.07.59:705][354]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Blueprints/Player/IMC_Default.IMC_Default
+[2024.09.17-20.08.05:142][728]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.09.17-20.12.16:000][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.17-20.12.16:048][362]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/IMC_Default] ([1] browsable assets)...
+[2024.09.17-20.12.16:048][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/IMC_Default]
+[2024.09.17-20.12.16:048][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/IMC_Default" FILE="../../../../GDW-5/Tutorial2/Tutorial2/Content/Blueprints/Player/IMC_Default.uasset" SILENT=true
+[2024.09.17-20.12.16:049][362]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/IMC_Default
+[2024.09.17-20.12.16:049][362]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/IMC_DefaultB2BFF60944322C0C88907CBFF527A59B.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/Blueprints/Player/IMC_Default.uasset'
+[2024.09.17-20.12.16:064][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.078 ms (total: 404.031 ms)
+[2024.09.17-20.12.16:115][362]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.17-20.12.16:115][362]LogContentValidation: Enabled validators:
+[2024.09.17-20.12.16:115][362]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.17-20.12.16:115][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.17-20.12.16:115][362]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.17-20.12.16:115][362]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/IMC_Default.IMC_Default
+[2024.09.17-20.12.16:115][362]AssetCheck: /Game/Blueprints/Player/IMC_Default Validating asset
+[2024.09.17-20.12.17:275][478]LogSlate: Window 'IMC_Default' being destroyed
+[2024.09.17-20.12.17:282][478]LogSlate: Window 'IMC_Default' being destroyed
+[2024.09.17-20.12.49:644][310]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_FPCharacter.BP_FPCharacter
+[2024.09.17-20.12.57:923][936]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.09.17-20.13.01:614][235]LogSlate: Window 'BP_FPCharacter' being destroyed
+[2024.09.17-20.14.38:215][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.09.17-20.14.38:217][559]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.030
+[2024.09.17-20.14.38:218][559]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_FPCharacter] ([2] browsable assets)...
+[2024.09.17-20.14.38:218][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_FPCharacter]
+[2024.09.17-20.14.38:220][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/BP_FPCharacter_Auto2
+[2024.09.17-20.14.38:221][559]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/BP_FPCharacter_Auto2ADF570774F4E6F423A296E8A1D97B08C.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Saved/Autosaves/Game/Blueprints/Player/BP_FPCharacter_Auto2.uasset'
+[2024.09.17-20.14.38:221][559]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/InputActions/IA_Jump] ([1] browsable assets)...
+[2024.09.17-20.14.38:221][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/InputActions/IA_Jump]
+[2024.09.17-20.14.38:221][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/InputActions/IA_Jump_Auto2
+[2024.09.17-20.14.38:221][559]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/IA_Jump_Auto243405E5C4BD7DF77C8196B90363A3851.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Saved/Autosaves/Game/Blueprints/Player/InputActions/IA_Jump_Auto2.uasset'
+[2024.09.17-20.14.38:223][559]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.09.17-20.23.26:940][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.17-20.23.26:975][240]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_FPCharacter] ([2] browsable assets)...
+[2024.09.17-20.23.26:975][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_FPCharacter]
+[2024.09.17-20.23.26:975][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_FPCharacter" FILE="../../../../GDW-5/Tutorial2/Tutorial2/Content/Blueprints/Player/BP_FPCharacter.uasset" SILENT=true
+[2024.09.17-20.23.26:982][240]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_FPCharacter
+[2024.09.17-20.23.26:982][240]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/BP_FPCharacterB61619024FFC652C8B1B4A90FE1B5552.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/Blueprints/Player/BP_FPCharacter.uasset'
+[2024.09.17-20.23.26:997][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.952 ms (total: 461.984 ms)
+[2024.09.17-20.23.27:033][240]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.17-20.23.27:033][240]LogContentValidation: Enabled validators:
+[2024.09.17-20.23.27:033][240]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.17-20.23.27:033][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.17-20.23.27:033][240]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.17-20.23.27:033][240]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/BP_FPCharacter.BP_FPCharacter
+[2024.09.17-20.23.27:033][240]AssetCheck: /Game/Blueprints/Player/BP_FPCharacter Validating asset
+[2024.09.17-20.23.32:399][417]LogSlate: Window 'Save Level As' being destroyed
+[2024.09.17-20.23.33:379][487]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.17-20.23.33:396][487]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.09.17-20.23.33:396][487]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2024.09.17-20.23.33:400][487]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 4.435 ms (total: 23.125 ms)
+[2024.09.17-20.23.33:409][487]LogPlayLevel: [PlayLevel] Compiling BP_FPCharacter before play...
+[2024.09.17-20.23.33:459][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.09.17-20.23.33:461][487]LogPlayLevel: PlayLevel: Blueprint regeneration took 52 ms (1 blueprints)
+[2024.09.17-20.23.33:461][487]LogPlayLevel: Display: Creating online subsystem for client :Context_9
+[2024.09.17-20.23.33:462][487]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.09.17-20.23.33:491][488]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2024.09.17-20.23.33:498][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007785s)
+[2024.09.17-20.23.33:498][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007819s)
+[2024.09.17-20.23.33:513][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.09.17-20.23.33:515][488]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.17-20.23.33:516][488]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.09.17-20.23.33:516][488]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.17-20.23.33:516][488]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.09.17-20.23.33:516][488]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.09.17-20.23.33:527][488]LogContentBundle: [Untitled_1(Standalone)] Creating new container.
+[2024.09.17-20.23.33:527][488]LogWorldPartition: Display: WorldPartition initialize took 9.729 ms (total: 252.324 ms)
+[2024.09.17-20.23.33:527][488]LogPlayLevel: PIE: World Init took: (0.010764s)
+[2024.09.17-20.23.33:645][488]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.09.17-20.23.33:645][488]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.17-20.23.33:645][488]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.17-20.23.33:645][488]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.17-20.23.33:645][488]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.17-20.23.33:645][488]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.17-20.23.33:645][488]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.17-20.23.33:645][488]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.17-20.23.33:645][488]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.17-20.23.33:645][488]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.17-20.23.33:645][488]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.17-20.23.33:645][488]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.17-20.23.33:646][488]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.17-20.23.33:662][488]LogAudioMixer: Display: Using Audio Hardware Device SPEAKER (Realtek(R) Audio)
+[2024.09.17-20.23.33:662][488]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.17-20.23.33:662][488]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.17-20.23.33:662][488]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.17-20.23.33:663][488]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.09.17-20.23.33:663][488]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.09.17-20.23.33:664][488]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.09.17-20.23.33:664][488]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.09.17-20.23.33:664][488]LogInit: FAudioDevice initialized with ID 5.
+[2024.09.17-20.23.33:664][488]LogAudio: Display: Audio Device (ID: 5) registered with world 'Untitled_1'.
+[2024.09.17-20.23.33:664][488]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.09.17-20.23.33:667][488]LogLoad: Game class is 'BP_GameMode_C'
+[2024.09.17-20.23.33:668][488]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2024.09.17-16.23.33
+[2024.09.17-20.23.33:669][488]LogWorld: Bringing up level for play took: 0.001541
+[2024.09.17-20.23.33:676][488]LogStreaming: Display: FlushAsyncLoading(): 44 QueuedPackages, 0 AsyncPackages
+[2024.09.17-20.23.33:955][488]PIE: Server logged in
+[2024.09.17-20.23.33:956][488]PIE: Play in editor total start time 0.571 seconds.
+[2024.09.17-20.23.49:851][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.17-20.23.49:851][307]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2024.09.17-20.23.49:866][307]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.09.17-20.23.49:866][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.17-20.23.49:867][307]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/UEDPIE_0_Untitled_1.Untitled_1
+[2024.09.17-20.23.49:867][307]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.09.17-20.23.49:867][307]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.17-20.23.49:867][307]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.17-20.23.49:869][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.17-20.23.49:874][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.17-20.23.49:887][307]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.17-20.23.49:887][307]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.09.17-20.23.49:887][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.09.17-20.23.49:888][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.09.17-20.23.49:891][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.17-20.23.49:903][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.09.17-20.23.50:119][308]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.09.17-20.24.10:004][619]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Blueprints/Player/IMC_Default.IMC_Default
+[2024.09.17-20.24.57:696][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.09.17-20.24.57:700][ 77]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.028
+[2024.09.17-20.24.57:700][ 77]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/IMC_Default] ([1] browsable assets)...
+[2024.09.17-20.24.57:700][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/IMC_Default]
+[2024.09.17-20.24.57:700][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/IMC_Default" FILE="../../../../GDW-5/Tutorial2/Tutorial2/Saved/Autosaves/Game/Blueprints/Player/IMC_Default_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.09.17-20.24.57:702][ 77]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player/IMC_Default_Auto3
+[2024.09.17-20.24.57:702][ 77]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/IMC_Default_Auto3125DAA894C00B965A3A34FB123DBB0E8.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Saved/Autosaves/Game/Blueprints/Player/IMC_Default_Auto3.uasset'
+[2024.09.17-20.24.57:703][ 77]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.09.17-20.26.06:342][296]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.09.17-20.26.06:419][296]LogContentBrowser: Creating deferred item: NewFolder
+[2024.09.17-20.26.06:425][296]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.09.17-20.26.08:538][296]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2024.09.17-20.26.08:538][296]LogContentBrowser: End creating deferred item NewFolder
+[2024.09.17-20.26.11:563][296]LogSlate: Window 'Save Level As' being destroyed
+[2024.09.17-20.26.11:768][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map" FILE="../../../../GDW-5/Tutorial2/Tutorial2/Content/Maps/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.09.17-20.26.11:793][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.09.17-20.26.11:800][296]LogSavePackage: Moving output files for package: /Game/Maps/Map
+[2024.09.17-20.26.11:800][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/MapA5A63011418C9D35AD109F8F52584E81.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/Maps/Map.umap'
+[2024.09.17-20.26.11:825][296]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Maps/Map_HLOD0_Instancing
+/Game/__ExternalActors__/Maps/Map/9/FD/Z3F2WRIWAZUMIY7O0BSM9C
+/Game/__ExternalObjects__/Maps/Map/6/B7/EERCDDXYYGAMEVU0633RK4
+/Game/__ExternalObjects__/Maps/Map/4/6M/R7ZZ1OIBVEHAQVO51HVPUP
+/Game/__ExternalObjects__/Maps/Map/B/8V/D8MCHKTANALX9GXMUJ3D19
+/Game/__ExternalObjects__/Maps/Map/7/T7/635PU42X6J6ERKAAX4LK6S
+/Game/__ExternalObjects__/Maps/Map/C/X1/JP1RXWU45TOAZVTUX4LCNX
+/Game/__ExternalObjects__/Maps/Map/9/J3/2U95R5PHYH3V5HERE994A6
+/Game/__ExternalActors__/Maps/Map/5/TV/RZ8OFHWV0RDF1NNCM9EOBQ
+/Game/__ExternalActors__/Maps/Map/0/40/QK3WTNL4OELF2XDD4SLNL5
+/Game/__ExternalActors__/Maps/Map/D/62/FB241YQ2Q5GV6RBRYP0XMH
+/Game/__ExternalActors__/Maps/Map/C/LI/XDWBL3JCZP78Q2S9G6EGQW
+/Game/__ExternalActors__/Maps/Map/B/WY/V2JMVA9TVKEYU8DN3CCFHE
+/Game/__ExternalActors__/Maps/Map/3/SB/O4VRDLBRZ2F755NCGY6J4O
+/Game/__ExternalActors__/Maps/Map/2/LA/4X8P0THXWAWMFAP64TI8FA
+/Game/__ExternalActors__/Maps/Map/5/8J/ZFWD3TWI3CNSNWV8BMLL7T
+/Game/__ExternalActors__/Maps/Map/5/SP/63LB8H8R8PJKU4BFGFVH7I
+/Game/__ExternalActors__/Maps/Map/9/SR/3QX4Q4IDV7POVDRV9I7NM7
+/Game/__ExternalActors__/Maps/Map/8/6Z/GN14IZY5CR9PRO2VN7004S
+/Game/__ExternalActors__/Maps/Map/B/44/NKXTZ9MWIJKEGACTPS0BMY
+/Game/__ExternalActors__/Maps/Map/E/6B/8YGOE6RCXP2TX8Q2H239WW
+/Game/__ExternalActors__/Maps/Map/E/YE/T3WF81T9E0CTS66KYNCUJT
+/Game/__ExternalActors__/Maps/Map/7/OB/ACY1LT4CCR5VRF94J1IZAR
+/Game/__ExternalActors__/Maps/Map/4/2K/SLTW3VK70U41TWDARUEIWS
+/Game/__ExternalActors__/Maps/Map/E/FE/QDW9Q3YP5KOR8RWT0YGLND
+/Game/__ExternalActors__/Maps/Map/3/7S/5IB4RHTDIZA8W8KK336WMZ
+/Game/__ExternalActors__/Maps/Map/D/4C/7QGWMHKUTHX6YC72XHI52Y
+/Game/__ExternalActors__/Maps/Map/6/2A/EQ4646S7RXYPZXJBKNHANB
+/Game/__ExternalActors__/Maps/Map/A/UT/7KPRY6NO2AKRPLK1VZHXYC
+/Game/__ExternalActors__/Maps/Map/0/OA/TWKK3X76Q75L2SNSJXVMU5
+/Game/__ExternalActors__/Maps/Map/4/OE/ND1IVFWEP70APDF8YOJ7AT
+/Game/__ExternalActors__/Maps/Map/5/VF/1PXGJUD4T5SD4VVZ057AO8
+/Game/__ExternalActors__/Maps/Map/C/ND/EJNQNK4KLS2ZWEYV1RPG68
+/Game/__ExternalActors__/Maps/Map/4/JC/N0P0NY46TJSV528XOPFIRJ
+/Game/__ExternalActors__/Maps/Map/5/24/CDBIYLKUSZNWAZJI8IZOV5
+/Game/__ExternalActors__/Maps/Map/5/5U/ZGYATUFPKM06IE7CWGQF3I
+/Game/__ExternalActors__/Maps/Map/A/5X/6UV3HV5QF341KBXUHE4MD6
+/Game/__ExternalActors__/Maps/Map/2/SC/IRZFTFAMDCRA8XOWDQKYR0
+/Game/__ExternalActors__/Maps/Map/9/ZE/B5XYTNUEHLQ5XXMTK858HK
+/Game/__ExternalActors__/Maps/Map/D/4G/UL8C87HB53Y0SQ2H5GW2JL
+/Game/__ExternalActors__/Maps/Map/0/4A/RYQR890X6MFJFVBJ7ECRHT
+/Game/__ExternalActors__/Maps/Map/2/YZ/XH7ZW3D22ZY6JLO5OEJTJY
+/Game/__ExternalActors__/Maps/Map/C/4J/KWZIB5Z0GQD59T34UWMKIN
+/Game/__ExternalActors__/Maps/Map/0/T0/0HPQT29YF8F34ZS5P4KH59
+/Game/__ExternalActors__/Maps/Map/1/FW/FZXTGO8C6SQ0HI3D54SE29
+/Game/__ExternalActors__/Maps/Map/E/EC/AJOHCIVNMS7V6317SPXXTB
+/Game/__ExternalActors__/Maps/Map/1/HX/JCW51PUUO95GPC4IBOYVJI
+/Game/__ExternalActors__/Maps/Map/9/M2/4ASPIYB7OZMVTXPDJLYGE0
+/Game/__ExternalActors__/Maps/Map/0/KR/JRP46UMYHPAOZJTKIEM9JR
+/Game/__ExternalActors__/Maps/Map/E/QQ/U39BW60PMR6LVU0LM6GXW8
+/Game/__ExternalActors__/Maps/Map/8/81/FDPJFPR1GCGO9WZTTV3RK5
+/Game/__ExternalActors__/Maps/Map/7/NU/4KE25EBH7CV18UXCO90L2M
+/Game/__ExternalActors__/Maps/Map/7/5K/O6KCJ74818G04Q6I6SEQGU
+/Game/__ExternalActors__/Maps/Map/4/2M/1U187HPKVT1FN3HW6XNCWT
+/Game/__ExternalActors__/Maps/Map/4/O4/FJFDUMCLXUU3VL4LJ3MXCL
+/Game/__ExternalActors__/Maps/Map/C/YV/9NU9QKUXFJ92400HQZLW9R
+/Game/__ExternalActors__/Maps/Map/B/1N/WN5L0KCETHLCFICG3YO2EA
+/Game/__ExternalActors__/Maps/Map/3/GO/4626Q5U7ON3QTTMC9B16DK
+/Game/__ExternalActors__/Maps/Map/9/YS/56OI5NIV2EMO613LIJSB16
+/Game/__ExternalActors__/Maps/Map/8/U5/11IPCN2XTROG1BPJESTDMM
+/Game/__ExternalActors__/Maps/Map/D/XH/CJLLMCUAIFYO5JW1DKLG2M
+/Game/__ExternalActors__/Maps/Map/3/LV/4CLIVVD9P7IOYNMYOXACG3
+/Game/__ExternalActors__/Maps/Map/5/9B/UIGXYUR7NVOEMO7AWSNDCB
+/Game/__ExternalActors__/Maps/Map/7/CK/DQL15FZKZ5O9B545P9RL4A
+/Game/__ExternalActors__/Maps/Map/1/SF/X76ROL1FDC7FQY2U9WCV0C
+/Game/__ExternalActors__/Maps/Map/2/6A/6GAC1SBRLG3OMJBW6UCRDU
+/Game/__ExternalActors__/Maps/Map/C/W6/KMUPMYLRFQW1YHZKHMYWHB
+/Game/__ExternalActors__/Maps/Map/3/Y5/AR8WNECJ45522AQQCLWFVV
+/Game/__ExternalActors__/Maps/Map/8/ZQ/X20DD0ZB6F8MSHZLEBDC5Y
+/Game/__ExternalActors__/Maps/Map/0/UU/92TM9OX4LXLF62NH5PA0YM
+/Game/__ExternalActors__/Maps/Map/4/7G/160B78WWYKDEQ8H0E1ME33
+/Game/__ExternalActors__/Maps/Map/5/DB/Q9DAF98J0OOZE0D5Z3IUBO
+/Game/__ExternalActors__/Maps/Map/1/5X/MNHNPZJ64CO1CO7XGX6O20
+/Game/__ExternalActors__/Maps/Map/7/U6/KF7T5DKRVJI9VZ48A9HOHI
+/Game/__ExternalActors__/Maps/Map/0/XH/BJ1MAOCCFGJL1JQOL1XDAP
+/Game/__ExternalActors__/Maps/Map/2/88/IVFNGU9EKSG88MNH3IN5RW
+/Game/__ExternalActors__/Maps/Map/6/YM/A0RITO93OJQSA67FTW9VKH
+/Game/__ExternalActors__/Maps/Map/5/PK/F5ODAJ2AXYVWZTE82KTHKM
+/Game/__ExternalActors__/Maps/Map/3/JZ/7K5OA3P4O3S2G65GKKVGH9
+/Game/__ExternalActors__/Maps/Map/2/VO/JV3UWTUXY1DK06062VFRAW
+/Game/__ExternalActors__/Maps/Map/9/4K/2QB3L88M03RBWAY64TBM4K
+/Game/__ExternalActors__/Maps/Map/2/MZ/AOW4EIKOYZW8PP04HRMU3T
+/Game/__ExternalActors__/Maps/Map/6/6A/VD6XSN8U5CRHYOHRT4YDHX
+/Game/__ExternalActors__/Maps/Map/0/I8/659HE8VFI00O0YXCLM2WEB
+/Game/__ExternalActors__/Maps/Map/9/88/4QRWHNS77KG06ETL7LLYQF
+/Game/__ExternalActors__/Maps/Map/8/6U/6TOV9FTOQATB7AXXUHMQ91
+/Game/__ExternalActors__/Maps/Map/5/V6/ZC4ZB46RPTVSF8I2OH3ZBG
+/Game/__ExternalActors__/Maps/Map/0/OI/ZYGZHSD4LGBJVT3L3GOPVP
+/Game/__ExternalActors__/Maps/Map/C/YR/KYY4NABY2I6GBDGQ8PX7OF
+/Game/__ExternalActors__/Maps/Map/9/7V/1S9PTY1TY1ZKO30YEHK4X2
+/Game/__ExternalActors__/Maps/Map/A/B6/19ELYMUL8MR8BTGWHFMH2I
+/Game/__ExternalActors__/Maps/Map/6/V2/B5ME8ME7O80XFF5I8EWKJ6
+/Game/__ExternalActors__/Maps/Map/C/AR/XK96XEXPS8VHYYV986WQCY
+/Game/__ExternalActors__/Maps/Map/C/FV/M5O7BMMJZH8TSVJBOANM7S
+/Game/__ExternalActors__/Maps/Map/B/YS/F9MEQVN8CG2UNX0U6JILKT
+/Game/__ExternalActors__/Maps/Map/4/K8/TI7F5F31ROA17KJK9FMUBY
+/Game/__ExternalActors__/Maps/Map/B/UJ/BMJ2DXW5SENVWE86UOFOJW
+/Game/__ExternalActors__/Maps/Map/C/2G/0WWXH1QHN184FAHT8PABVT
+/Game/__ExternalActors__/Maps/Map/2/KO/A71Z7H17KP4M2HYI9RQB9F
+/Game/__ExternalActors__/Maps/Map/F/01/WTH6MGZ2OBILJCDAOT7E3T
+/Game/__ExternalActors__/Maps/Map/7/WD/0HWY65CAHZ211IHGE8KBMC
+/Game/__ExternalActors__/Maps/Map/2/WU/VVY5PRL4TQ5TJ8D54SOORP
+/Game/__ExternalActors__/Maps/Map/7/FF/DZU7IXY40PSJC0586V271E
+/Game/__ExternalActors__/Maps/Map/E/IF/TCIKO2ZK1HNFS0HKG62PY6
+/Game/__ExternalActors__/Maps/Map/C/ZO/QD78RUEFL5JQNJ7VQEGPFE
+/Game/__ExternalActors__/Maps/Map/6/DP/P1BLBOE5XRQLNWNZ5J5X1J
+/Game/__ExternalActors__/Maps/Map/C/NB/C7H9JT6WPIVY6M9MTP9PYT
+/Game/__ExternalActors__/Maps/Map/1/OM/E1KG7VWJ6MIMYEL9USNY1M
+/Game/__ExternalActors__/Maps/Map/0/X8/NT2TY4VKO21ERO4C0GF2V8
+/Game/__ExternalActors__/Maps/Map/A/DN/NJM18T7BJAK1B5A9HJV3HE
+/Game/__ExternalActors__/Maps/Map/F/3B/TAPR7F6VEONS4HHT977680
+/Game/__ExternalActors__/Maps/Map/E/W0/VMDBL3GHOZWD08IJ16BREU
+/Game/__ExternalActors__/Maps/Map/C/JB/HT4DCPR4TAIEEQHDABZ2S9
+/Game/__ExternalActors__/Maps/Map/2/8N/ZHY7VDT0VT0G3NUSV6SXYH
+/Game/__ExternalActors__/Maps/Map/0/IF/YRFBDSMI1B4F7AOCIG5DSP
+/Game/__ExternalActors__/Maps/Map/5/9Y/UJ6FAN778EQ2XFVUR2IXNO
+/Game/__ExternalActors__/Maps/Map/2/QT/GX7JVX3JPMN7ABVFRU8VTK
+/Game/__ExternalActors__/Maps/Map/E/P4/DL5SPBFDWF935X8U19FEAD
+/Game/__ExternalActors__/Maps/Map/D/W1/C2YXJ3C26WY7C8QJ3HBYHQ
+/Game/__ExternalActors__/Maps/Map/7/Z9/2KAVJH4510AWMEFX8WPQ8D
+/Game/__ExternalActors__/Maps/Map/7/UJ/J88MMCDTPMO6TK66XDPXDT
+/Game/__ExternalActors__/Maps/Map/E/PS/2JFLZA4WSW93024L291OMJ
+/Game/__ExternalActors__/Maps/Map/1/S7/M9O6YO8NR1SUQN5C78KMTT
+/Game/__ExternalActors__/Maps/Map/E/I5/EZXHVSXPTS6VV11ZEHBGVJ
+/Game/__ExternalActors__/Maps/Map/D/4S/6O1V2SKUIY08DVHTS66ECK
+/Game/__ExternalActors__/Maps/Map/6/W6/OBJWN2LVEJ9F33SEAPY7NI
+/Game/__ExternalActors__/Maps/Map/9/3B/6I2XSGN1C7OSU1TXOLSU3G
+/Game/__ExternalActors__/Maps/Map/D/QO/5W7EY27Q0V02FSPUVZ3Q10
+/Game/__ExternalActors__/Maps/Map/8/R4/0N9WUK8UTV88UIIS9EZJAW
+/Game/__ExternalActors__/Maps/Map/A/KE/FA1RNR0ROQSM4OUQ3351SO
+/Game/__ExternalActors__/Maps/Map/6/NV/BAZO007XQWD87NQC1CNV5A
+/Game/__ExternalActors__/Maps/Map/5/LP/3HV7JJATYJIDEUHXGQYNKV
+/Game/__ExternalActors__/Maps/Map/4/1U/0SOV54P7AVRFXU90GLBR0P
+/Game/__ExternalActors__/Maps/Map/B/U9/REYKLZ5XGGFFQ3EEMD4TWN
+/Game/__ExternalActors__/Maps/Map/F/00/2ZWZ812H409QDXU2VHPH2J
+/Game/__ExternalActors__/Maps/Map/B/1Q/W9IWATMILMQBOYZR6DAYYH
+/Game/__ExternalActors__/Maps/Map/6/83/JVO4KOK92YPCRZUHY46DA7
+/Game/__ExternalActors__/Maps/Map/4/ZK/54BXU91S2UB43PEKLMD55B
+/Game/__ExternalActors__/Maps/Map/B/UB/HKLT2MY2LLZ7C89DQ151DI
+/Game/__ExternalActors__/Maps/Map/4/H7/WM76SOE1V7E2LEUM0TX628
+/Game/__ExternalActors__/Maps/Map/7/FC/JWRSJUHP2GOLYMPT15SH10
+/Game/__ExternalActors__/Maps/Map/9/D3/JY2P0EM3UHCNEFUF7RAC79
+/Game/__ExternalActors__/Maps/Map/9/0Q/601LQPQDHSBH89Y736CFMJ
+/Game/__ExternalActors__/Maps/Map/D/RY/AXHFYN99F9T6QLXEHVJ02Y
+/Game/__ExternalActors__/Maps/Map/6/50/XHKGYBF90Z6KCNIG18Y5GQ
+[2024.09.17-20.26.11:825][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.17-20.26.11:825][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Map_HLOD0_Instancing] ([1] browsable assets)...
+[2024.09.17-20.26.11:825][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Map_HLOD0_Instancing]
+[2024.09.17-20.26.11:825][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_HLOD0_Instancing" FILE="../../../../GDW-5/Tutorial2/Tutorial2/Content/Maps/Map_HLOD0_Instancing.uasset" SILENT=true
+[2024.09.17-20.26.11:826][296]LogSavePackage: Moving output files for package: /Game/Maps/Map_HLOD0_Instancing
+[2024.09.17-20.26.11:826][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/Map_HLOD0_Instancing6133AEF24A1268C28DD6F3B284514B0D.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/Maps/Map_HLOD0_Instancing.uasset'
+[2024.09.17-20.26.11:835][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/9/FD/Z3F2WRIWAZUMIY7O0BSM9C
+[2024.09.17-20.26.11:835][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/Z3F2WRIWAZUMIY7O0BSM9CD9CB49294C33D39DC08247B7541E54C5.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/9/FD/Z3F2WRIWAZUMIY7O0BSM9C.uasset'
+[2024.09.17-20.26.11:836][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Maps/Map/6/B7/EERCDDXYYGAMEVU0633RK4] ([1] browsable assets)...
+[2024.09.17-20.26.11:836][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Maps/Map/6/B7/EERCDDXYYGAMEVU0633RK4]
+[2024.09.17-20.26.11:837][296]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Map/6/B7/EERCDDXYYGAMEVU0633RK4
+[2024.09.17-20.26.11:837][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/EERCDDXYYGAMEVU0633RK485706A0248C4B345036CC1B1EFA576EA.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalObjects__/Maps/Map/6/B7/EERCDDXYYGAMEVU0633RK4.uasset'
+[2024.09.17-20.26.11:845][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Maps/Map/4/6M/R7ZZ1OIBVEHAQVO51HVPUP] ([1] browsable assets)...
+[2024.09.17-20.26.11:845][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Maps/Map/4/6M/R7ZZ1OIBVEHAQVO51HVPUP]
+[2024.09.17-20.26.11:846][296]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Map/4/6M/R7ZZ1OIBVEHAQVO51HVPUP
+[2024.09.17-20.26.11:846][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/R7ZZ1OIBVEHAQVO51HVPUP1ADB7AC84239E33302A2F4B1BBB6E01A.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalObjects__/Maps/Map/4/6M/R7ZZ1OIBVEHAQVO51HVPUP.uasset'
+[2024.09.17-20.26.11:847][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Maps/Map/B/8V/D8MCHKTANALX9GXMUJ3D19] ([1] browsable assets)...
+[2024.09.17-20.26.11:847][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Maps/Map/B/8V/D8MCHKTANALX9GXMUJ3D19]
+[2024.09.17-20.26.11:847][296]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Map/B/8V/D8MCHKTANALX9GXMUJ3D19
+[2024.09.17-20.26.11:847][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/D8MCHKTANALX9GXMUJ3D19B8DE915A42358B92E27CD8A2F654A184.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalObjects__/Maps/Map/B/8V/D8MCHKTANALX9GXMUJ3D19.uasset'
+[2024.09.17-20.26.11:848][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Maps/Map/7/T7/635PU42X6J6ERKAAX4LK6S] ([1] browsable assets)...
+[2024.09.17-20.26.11:848][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Maps/Map/7/T7/635PU42X6J6ERKAAX4LK6S]
+[2024.09.17-20.26.11:849][296]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Map/7/T7/635PU42X6J6ERKAAX4LK6S
+[2024.09.17-20.26.11:849][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/635PU42X6J6ERKAAX4LK6S4A9EE9534A3CED90FB0BD4A36AD580E4.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalObjects__/Maps/Map/7/T7/635PU42X6J6ERKAAX4LK6S.uasset'
+[2024.09.17-20.26.11:850][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Maps/Map/C/X1/JP1RXWU45TOAZVTUX4LCNX] ([1] browsable assets)...
+[2024.09.17-20.26.11:850][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Maps/Map/C/X1/JP1RXWU45TOAZVTUX4LCNX]
+[2024.09.17-20.26.11:851][296]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Map/C/X1/JP1RXWU45TOAZVTUX4LCNX
+[2024.09.17-20.26.11:851][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/JP1RXWU45TOAZVTUX4LCNX963AC2AB401BA46C78E51CB99EB21F9B.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalObjects__/Maps/Map/C/X1/JP1RXWU45TOAZVTUX4LCNX.uasset'
+[2024.09.17-20.26.11:851][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Maps/Map/9/J3/2U95R5PHYH3V5HERE994A6] ([1] browsable assets)...
+[2024.09.17-20.26.11:852][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Maps/Map/9/J3/2U95R5PHYH3V5HERE994A6]
+[2024.09.17-20.26.11:852][296]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/Map/9/J3/2U95R5PHYH3V5HERE994A6
+[2024.09.17-20.26.11:852][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/2U95R5PHYH3V5HERE994A636A531E847D5A6F2A8FC3B938840AC0C.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalObjects__/Maps/Map/9/J3/2U95R5PHYH3V5HERE994A6.uasset'
+[2024.09.17-20.26.11:875][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/5/TV/RZ8OFHWV0RDF1NNCM9EOBQ
+[2024.09.17-20.26.11:875][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/RZ8OFHWV0RDF1NNCM9EOBQ66A2517E4E4B5B9F062C848070A93D43.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/5/TV/RZ8OFHWV0RDF1NNCM9EOBQ.uasset'
+[2024.09.17-20.26.11:877][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/0/40/QK3WTNL4OELF2XDD4SLNL5
+[2024.09.17-20.26.11:877][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/QK3WTNL4OELF2XDD4SLNL5C806259C4BCB3513AFB92A82D71DB0EF.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/0/40/QK3WTNL4OELF2XDD4SLNL5.uasset'
+[2024.09.17-20.26.11:879][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/D/62/FB241YQ2Q5GV6RBRYP0XMH
+[2024.09.17-20.26.11:879][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/FB241YQ2Q5GV6RBRYP0XMHF3EF320947F1D6C662987A83DEBB4555.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/D/62/FB241YQ2Q5GV6RBRYP0XMH.uasset'
+[2024.09.17-20.26.11:880][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/C/LI/XDWBL3JCZP78Q2S9G6EGQW
+[2024.09.17-20.26.11:880][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/XDWBL3JCZP78Q2S9G6EGQWF92890A0426CFC8EE2B2AAA08445606F.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/C/LI/XDWBL3JCZP78Q2S9G6EGQW.uasset'
+[2024.09.17-20.26.11:882][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/B/WY/V2JMVA9TVKEYU8DN3CCFHE
+[2024.09.17-20.26.11:882][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/V2JMVA9TVKEYU8DN3CCFHE307F4A164E2B51A93915B6A34A5E31C1.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/B/WY/V2JMVA9TVKEYU8DN3CCFHE.uasset'
+[2024.09.17-20.26.11:884][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/3/SB/O4VRDLBRZ2F755NCGY6J4O
+[2024.09.17-20.26.11:884][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/O4VRDLBRZ2F755NCGY6J4O4A8B20F841F13BBCE83EFEB4B8AC9EE2.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/3/SB/O4VRDLBRZ2F755NCGY6J4O.uasset'
+[2024.09.17-20.26.11:885][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/2/LA/4X8P0THXWAWMFAP64TI8FA
+[2024.09.17-20.26.11:886][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/4X8P0THXWAWMFAP64TI8FA1B87F80346CE7C1BB5224C96958E3D18.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/2/LA/4X8P0THXWAWMFAP64TI8FA.uasset'
+[2024.09.17-20.26.11:897][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/5/8J/ZFWD3TWI3CNSNWV8BMLL7T
+[2024.09.17-20.26.11:897][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/ZFWD3TWI3CNSNWV8BMLL7TF28D9E7C4CE2BD83C817E987DA95D116.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/5/8J/ZFWD3TWI3CNSNWV8BMLL7T.uasset'
+[2024.09.17-20.26.11:928][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0.LandscapeComponent_86 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.008), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.008), Max=(X=126.000 Y=126.000 Z=-0.547))
+[2024.09.17-20.26.11:929][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0.LandscapeComponent_87 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.992))
+[2024.09.17-20.26.11:941][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/5/SP/63LB8H8R8PJKU4BFGFVH7I
+[2024.09.17-20.26.11:941][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/63LB8H8R8PJKU4BFGFVH7I63C2305547A960DB5BC01CB48B8D25C1.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/5/SP/63LB8H8R8PJKU4BFGFVH7I.uasset'
+[2024.09.17-20.26.11:945][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0.LandscapeComponent_167 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.008), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.008), Max=(X=126.000 Y=126.000 Z=-0.992))
+[2024.09.17-20.26.11:953][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/9/SR/3QX4Q4IDV7POVDRV9I7NM7
+[2024.09.17-20.26.11:953][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/3QX4Q4IDV7POVDRV9I7NM7E17271A7499BE8BDFC16CAA06B5405AC.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/9/SR/3QX4Q4IDV7POVDRV9I7NM7.uasset'
+[2024.09.17-20.26.11:955][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0.LandscapeComponent_168 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.977))
+[2024.09.17-20.26.11:956][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0.LandscapeComponent_169 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.008), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.008), Max=(X=126.000 Y=126.000 Z=-0.242))
+[2024.09.17-20.26.11:964][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/8/6Z/GN14IZY5CR9PRO2VN7004S
+[2024.09.17-20.26.11:964][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/GN14IZY5CR9PRO2VN7004S8E77AB124CA826362FD3ECB1E6410905.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/8/6Z/GN14IZY5CR9PRO2VN7004S.uasset'
+[2024.09.17-20.26.11:981][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/B/44/NKXTZ9MWIJKEGACTPS0BMY
+[2024.09.17-20.26.11:981][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/NKXTZ9MWIJKEGACTPS0BMY1652DDA74A47C8177C0C1496F4DE8D9F.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/B/44/NKXTZ9MWIJKEGACTPS0BMY.uasset'
+[2024.09.17-20.26.11:993][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/E/6B/8YGOE6RCXP2TX8Q2H239WW
+[2024.09.17-20.26.11:993][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/8YGOE6RCXP2TX8Q2H239WW5126366A40C22EAFF6A74086FEB6AAB8.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/E/6B/8YGOE6RCXP2TX8Q2H239WW.uasset'
+[2024.09.17-20.26.12:005][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/E/YE/T3WF81T9E0CTS66KYNCUJT
+[2024.09.17-20.26.12:006][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/T3WF81T9E0CTS66KYNCUJTE7CF7F644E98216609D2A4AD9B3435CD.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/E/YE/T3WF81T9E0CTS66KYNCUJT.uasset'
+[2024.09.17-20.26.12:017][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/7/OB/ACY1LT4CCR5VRF94J1IZAR
+[2024.09.17-20.26.12:017][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/ACY1LT4CCR5VRF94J1IZAR410B38E94B20F957955DC0A997B98C6E.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/7/OB/ACY1LT4CCR5VRF94J1IZAR.uasset'
+[2024.09.17-20.26.12:029][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/4/2K/SLTW3VK70U41TWDARUEIWS
+[2024.09.17-20.26.12:029][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/SLTW3VK70U41TWDARUEIWS4818A1C94B57A357F2502BBD517F29ED.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/4/2K/SLTW3VK70U41TWDARUEIWS.uasset'
+[2024.09.17-20.26.12:044][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/E/FE/QDW9Q3YP5KOR8RWT0YGLND
+[2024.09.17-20.26.12:044][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/QDW9Q3YP5KOR8RWT0YGLNDFC1D2D6E417498EA0E3FE2A9DDB0BA9F.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/E/FE/QDW9Q3YP5KOR8RWT0YGLND.uasset'
+[2024.09.17-20.26.12:057][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/3/7S/5IB4RHTDIZA8W8KK336WMZ
+[2024.09.17-20.26.12:057][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/5IB4RHTDIZA8W8KK336WMZ6ABE6F314FF091A8D3204F90C58F08A1.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/3/7S/5IB4RHTDIZA8W8KK336WMZ.uasset'
+[2024.09.17-20.26.12:068][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/D/4C/7QGWMHKUTHX6YC72XHI52Y
+[2024.09.17-20.26.12:068][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/7QGWMHKUTHX6YC72XHI52Y0CE350D04B1BA736C16CD6BCDF05BEC1.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/D/4C/7QGWMHKUTHX6YC72XHI52Y.uasset'
+[2024.09.17-20.26.12:081][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/6/2A/EQ4646S7RXYPZXJBKNHANB
+[2024.09.17-20.26.12:081][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/EQ4646S7RXYPZXJBKNHANB2897A4524370C5F67A4101A2F9A5A7D4.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/6/2A/EQ4646S7RXYPZXJBKNHANB.uasset'
+[2024.09.17-20.26.12:093][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/A/UT/7KPRY6NO2AKRPLK1VZHXYC
+[2024.09.17-20.26.12:093][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/7KPRY6NO2AKRPLK1VZHXYC61A5ED66469DC666C223CEBF7633EC3A.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/A/UT/7KPRY6NO2AKRPLK1VZHXYC.uasset'
+[2024.09.17-20.26.12:105][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/0/OA/TWKK3X76Q75L2SNSJXVMU5
+[2024.09.17-20.26.12:105][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/TWKK3X76Q75L2SNSJXVMU5376ECB9B40024564FB396D90123B3681.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/0/OA/TWKK3X76Q75L2SNSJXVMU5.uasset'
+[2024.09.17-20.26.12:120][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/4/OE/ND1IVFWEP70APDF8YOJ7AT
+[2024.09.17-20.26.12:120][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/ND1IVFWEP70APDF8YOJ7AT9D708DAA46659E62935B06AA4DBCEFE7.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/4/OE/ND1IVFWEP70APDF8YOJ7AT.uasset'
+[2024.09.17-20.26.12:131][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/5/VF/1PXGJUD4T5SD4VVZ057AO8
+[2024.09.17-20.26.12:132][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/1PXGJUD4T5SD4VVZ057AO82D73FD224AB4A7C80C5D32A9DDAAA1DC.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/5/VF/1PXGJUD4T5SD4VVZ057AO8.uasset'
+[2024.09.17-20.26.12:137][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0.LandscapeComponent_101 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.570))
+[2024.09.17-20.26.12:137][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0.LandscapeComponent_117 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.992))
+[2024.09.17-20.26.12:143][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/C/ND/EJNQNK4KLS2ZWEYV1RPG68
+[2024.09.17-20.26.12:143][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/EJNQNK4KLS2ZWEYV1RPG6850060D7846E1A50848E217A7EBFA5FEE.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/C/ND/EJNQNK4KLS2ZWEYV1RPG68.uasset'
+[2024.09.17-20.26.12:146][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.LandscapeComponent_102 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.09.17-20.26.12:147][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.LandscapeComponent_118 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.09.17-20.26.12:147][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.LandscapeComponent_103 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.09.17-20.26.12:148][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0.LandscapeComponent_119 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.09.17-20.26.12:155][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/4/JC/N0P0NY46TJSV528XOPFIRJ
+[2024.09.17-20.26.12:155][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/N0P0NY46TJSV528XOPFIRJD2F8DBAC48790C984D14CFBE7D3304D5.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/4/JC/N0P0NY46TJSV528XOPFIRJ.uasset'
+[2024.09.17-20.26.12:167][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/5/24/CDBIYLKUSZNWAZJI8IZOV5
+[2024.09.17-20.26.12:167][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/CDBIYLKUSZNWAZJI8IZOV59B5C73A34CBF0760D104418CA829C859.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/5/24/CDBIYLKUSZNWAZJI8IZOV5.uasset'
+[2024.09.17-20.26.12:179][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/5/5U/ZGYATUFPKM06IE7CWGQF3I
+[2024.09.17-20.26.12:179][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/ZGYATUFPKM06IE7CWGQF3ID30049524ECEF85E606175B590FDB9BC.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/5/5U/ZGYATUFPKM06IE7CWGQF3I.uasset'
+[2024.09.17-20.26.12:191][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/A/5X/6UV3HV5QF341KBXUHE4MD6
+[2024.09.17-20.26.12:191][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/6UV3HV5QF341KBXUHE4MD642BCC42040B6A46BB98E999B77804011.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/A/5X/6UV3HV5QF341KBXUHE4MD6.uasset'
+[2024.09.17-20.26.12:204][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/2/SC/IRZFTFAMDCRA8XOWDQKYR0
+[2024.09.17-20.26.12:204][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/IRZFTFAMDCRA8XOWDQKYR06AE66C1F4053AF4291CE5EBD388AA369.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/2/SC/IRZFTFAMDCRA8XOWDQKYR0.uasset'
+[2024.09.17-20.26.12:215][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/9/ZE/B5XYTNUEHLQ5XXMTK858HK
+[2024.09.17-20.26.12:216][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/B5XYTNUEHLQ5XXMTK858HK1335775448F258FB12C29BAC468DB9D8.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/9/ZE/B5XYTNUEHLQ5XXMTK858HK.uasset'
+[2024.09.17-20.26.12:227][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/D/4G/UL8C87HB53Y0SQ2H5GW2JL
+[2024.09.17-20.26.12:227][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/UL8C87HB53Y0SQ2H5GW2JL0C502049455D3B3B9F70C58CF701D7F2.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/D/4G/UL8C87HB53Y0SQ2H5GW2JL.uasset'
+[2024.09.17-20.26.12:241][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/0/4A/RYQR890X6MFJFVBJ7ECRHT
+[2024.09.17-20.26.12:241][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/RYQR890X6MFJFVBJ7ECRHT78255DDE4C63E1D10E4E69BE15A7752A.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/0/4A/RYQR890X6MFJFVBJ7ECRHT.uasset'
+[2024.09.17-20.26.12:243][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0.LandscapeComponent_88 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.977))
+[2024.09.17-20.26.12:246][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0.LandscapeComponent_89 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.008))
+[2024.09.17-20.26.12:255][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/2/YZ/XH7ZW3D22ZY6JLO5OEJTJY
+[2024.09.17-20.26.12:255][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/XH7ZW3D22ZY6JLO5OEJTJY657820934BDA641A2E1C368A715AE32A.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/2/YZ/XH7ZW3D22ZY6JLO5OEJTJY.uasset'
+[2024.09.17-20.26.12:257][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.LandscapeComponent_104 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.09.17-20.26.12:258][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.LandscapeComponent_120 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.09.17-20.26.12:259][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.LandscapeComponent_105 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.992))
+[2024.09.17-20.26.12:259][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0.LandscapeComponent_121 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.09.17-20.26.12:265][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/C/4J/KWZIB5Z0GQD59T34UWMKIN
+[2024.09.17-20.26.12:265][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/KWZIB5Z0GQD59T34UWMKIN9607E73E4A24C6F78B9373A6373DD372.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/C/4J/KWZIB5Z0GQD59T34UWMKIN.uasset'
+[2024.09.17-20.26.12:268][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0.LandscapeComponent_122 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.820))
+[2024.09.17-20.26.12:276][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/0/T0/0HPQT29YF8F34ZS5P4KH59
+[2024.09.17-20.26.12:276][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/0HPQT29YF8F34ZS5P4KH5911F97F864E36BF5AB4868CAE053F8381.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/0/T0/0HPQT29YF8F34ZS5P4KH59.uasset'
+[2024.09.17-20.26.12:288][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/1/FW/FZXTGO8C6SQ0HI3D54SE29
+[2024.09.17-20.26.12:288][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/FZXTGO8C6SQ0HI3D54SE29F2AF7CD2443B51F2D5AF9C968CC0F720.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/1/FW/FZXTGO8C6SQ0HI3D54SE29.uasset'
+[2024.09.17-20.26.12:299][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/E/EC/AJOHCIVNMS7V6317SPXXTB
+[2024.09.17-20.26.12:299][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/AJOHCIVNMS7V6317SPXXTB393B763342AD1D6ACFAF99A54A50CD8E.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/E/EC/AJOHCIVNMS7V6317SPXXTB.uasset'
+[2024.09.17-20.26.12:311][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/1/HX/JCW51PUUO95GPC4IBOYVJI
+[2024.09.17-20.26.12:311][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/JCW51PUUO95GPC4IBOYVJI2D6BB8CE47E44DF13D6C72AC90F7BCD4.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/1/HX/JCW51PUUO95GPC4IBOYVJI.uasset'
+[2024.09.17-20.26.12:323][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/9/M2/4ASPIYB7OZMVTXPDJLYGE0
+[2024.09.17-20.26.12:323][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/4ASPIYB7OZMVTXPDJLYGE0E010A862403E53B2198AD5A6305CAE61.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/9/M2/4ASPIYB7OZMVTXPDJLYGE0.uasset'
+[2024.09.17-20.26.12:336][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/0/KR/JRP46UMYHPAOZJTKIEM9JR
+[2024.09.17-20.26.12:336][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/JRP46UMYHPAOZJTKIEM9JRCD2E45D5413CFD533D41A293BA543A83.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/0/KR/JRP46UMYHPAOZJTKIEM9JR.uasset'
+[2024.09.17-20.26.12:349][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/E/QQ/U39BW60PMR6LVU0LM6GXW8
+[2024.09.17-20.26.12:349][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/U39BW60PMR6LVU0LM6GXW8AF20F7DE4C209B23017E3ABE04B23F84.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/E/QQ/U39BW60PMR6LVU0LM6GXW8.uasset'
+[2024.09.17-20.26.12:360][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/8/81/FDPJFPR1GCGO9WZTTV3RK5
+[2024.09.17-20.26.12:360][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/FDPJFPR1GCGO9WZTTV3RK5FA7686C94B7A3737AA9B27B167E67D0D.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/8/81/FDPJFPR1GCGO9WZTTV3RK5.uasset'
+[2024.09.17-20.26.12:371][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/7/NU/4KE25EBH7CV18UXCO90L2M
+[2024.09.17-20.26.12:372][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/4KE25EBH7CV18UXCO90L2ME74262D44496F3CA7F7427941869054A.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/7/NU/4KE25EBH7CV18UXCO90L2M.uasset'
+[2024.09.17-20.26.12:384][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/7/5K/O6KCJ74818G04Q6I6SEQGU
+[2024.09.17-20.26.12:384][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/O6KCJ74818G04Q6I6SEQGU466C5A4542A57508120E98B05CCDEFDF.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/7/5K/O6KCJ74818G04Q6I6SEQGU.uasset'
+[2024.09.17-20.26.12:401][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/4/2M/1U187HPKVT1FN3HW6XNCWT
+[2024.09.17-20.26.12:401][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/1U187HPKVT1FN3HW6XNCWT20F79A0E435CD759F568BAA41A3A719A.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/4/2M/1U187HPKVT1FN3HW6XNCWT.uasset'
+[2024.09.17-20.26.12:412][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/4/O4/FJFDUMCLXUU3VL4LJ3MXCL
+[2024.09.17-20.26.12:412][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/FJFDUMCLXUU3VL4LJ3MXCL4C7587E24B3CD0743A6D4BBE1B245709.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/4/O4/FJFDUMCLXUU3VL4LJ3MXCL.uasset'
+[2024.09.17-20.26.12:423][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/C/YV/9NU9QKUXFJ92400HQZLW9R
+[2024.09.17-20.26.12:423][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/9NU9QKUXFJ92400HQZLW9RF7DD11D64FBCDF99F53C42A2CBD62E7D.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/C/YV/9NU9QKUXFJ92400HQZLW9R.uasset'
+[2024.09.17-20.26.12:436][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/B/1N/WN5L0KCETHLCFICG3YO2EA
+[2024.09.17-20.26.12:436][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/WN5L0KCETHLCFICG3YO2EA91317C84499EB33982AC43B7F4C25732.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/B/1N/WN5L0KCETHLCFICG3YO2EA.uasset'
+[2024.09.17-20.26.12:448][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/3/GO/4626Q5U7ON3QTTMC9B16DK
+[2024.09.17-20.26.12:448][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/4626Q5U7ON3QTTMC9B16DK2726897F4EB0BD5AC6642F8CBCCF0ED6.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/3/GO/4626Q5U7ON3QTTMC9B16DK.uasset'
+[2024.09.17-20.26.12:452][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0.LandscapeComponent_133 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.977))
+[2024.09.17-20.26.12:453][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0.LandscapeComponent_149 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.656))
+[2024.09.17-20.26.12:459][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/9/YS/56OI5NIV2EMO613LIJSB16
+[2024.09.17-20.26.12:459][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/56OI5NIV2EMO613LIJSB16FC251D5741833FE6C42400B1E62C3F88.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/9/YS/56OI5NIV2EMO613LIJSB16.uasset'
+[2024.09.17-20.26.12:470][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/8/U5/11IPCN2XTROG1BPJESTDMM
+[2024.09.17-20.26.12:470][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/11IPCN2XTROG1BPJESTDMM8B0FADFE4B0C6ADE8646BF9BFE7C5DBE.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/8/U5/11IPCN2XTROG1BPJESTDMM.uasset'
+[2024.09.17-20.26.12:482][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/D/XH/CJLLMCUAIFYO5JW1DKLG2M
+[2024.09.17-20.26.12:482][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/CJLLMCUAIFYO5JW1DKLG2M510804914F8F8C80806D9588BC68F5FF.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/D/XH/CJLLMCUAIFYO5JW1DKLG2M.uasset'
+[2024.09.17-20.26.12:484][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0.LandscapeComponent_134 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.09.17-20.26.12:485][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0.LandscapeComponent_150 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.09.17-20.26.12:486][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0.LandscapeComponent_135 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.09.17-20.26.12:486][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0.LandscapeComponent_151 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.09.17-20.26.12:491][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/3/LV/4CLIVVD9P7IOYNMYOXACG3
+[2024.09.17-20.26.12:491][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/4CLIVVD9P7IOYNMYOXACG3E4E4675A4F7C634553259288CC8875A4.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/3/LV/4CLIVVD9P7IOYNMYOXACG3.uasset'
+[2024.09.17-20.26.12:517][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/5/9B/UIGXYUR7NVOEMO7AWSNDCB
+[2024.09.17-20.26.12:517][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/UIGXYUR7NVOEMO7AWSNDCBDEC171A44AD6141F4ED1F4BBE3551104.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/5/9B/UIGXYUR7NVOEMO7AWSNDCB.uasset'
+[2024.09.17-20.26.12:533][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/7/CK/DQL15FZKZ5O9B545P9RL4A
+[2024.09.17-20.26.12:533][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/DQL15FZKZ5O9B545P9RL4A87A7E3A74711C7D50C203A91B6924A65.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/7/CK/DQL15FZKZ5O9B545P9RL4A.uasset'
+[2024.09.17-20.26.12:545][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/1/SF/X76ROL1FDC7FQY2U9WCV0C
+[2024.09.17-20.26.12:545][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/X76ROL1FDC7FQY2U9WCV0C711E208E44B9EAD431B7C981A9A0BDA3.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/1/SF/X76ROL1FDC7FQY2U9WCV0C.uasset'
+[2024.09.17-20.26.12:547][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.LandscapeComponent_136 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.09.17-20.26.12:548][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.LandscapeComponent_152 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.09.17-20.26.12:548][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.LandscapeComponent_137 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.09.17-20.26.12:549][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.LandscapeComponent_153 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-2.000), Max=(X=126.000 Y=126.000 Z=0.000))
+[2024.09.17-20.26.12:555][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/2/6A/6GAC1SBRLG3OMJBW6UCRDU
+[2024.09.17-20.26.12:555][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/6GAC1SBRLG3OMJBW6UCRDUBF549C9F43D283A28A25F088462BFE15.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/2/6A/6GAC1SBRLG3OMJBW6UCRDU.uasset'
+[2024.09.17-20.26.12:566][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/C/W6/KMUPMYLRFQW1YHZKHMYWHB
+[2024.09.17-20.26.12:566][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/KMUPMYLRFQW1YHZKHMYWHB319D7731467DE0BA7A2EBB872903FC5A.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/C/W6/KMUPMYLRFQW1YHZKHMYWHB.uasset'
+[2024.09.17-20.26.12:568][296]LogLandscape: Display: The component /Game/Maps/Map.Map:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.LandscapeComponent_138 had incorrect bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=126.000 Y=126.000 Z=-0.883))
+[2024.09.17-20.26.12:577][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/3/Y5/AR8WNECJ45522AQQCLWFVV
+[2024.09.17-20.26.12:577][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/AR8WNECJ45522AQQCLWFVV9327F80944F7D81AE750EF9E05C0F19A.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/3/Y5/AR8WNECJ45522AQQCLWFVV.uasset'
+[2024.09.17-20.26.12:588][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/8/ZQ/X20DD0ZB6F8MSHZLEBDC5Y
+[2024.09.17-20.26.12:588][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/X20DD0ZB6F8MSHZLEBDC5YC16563AB48E0347D953F8FAC874774D8.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/8/ZQ/X20DD0ZB6F8MSHZLEBDC5Y.uasset'
+[2024.09.17-20.26.12:599][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/0/UU/92TM9OX4LXLF62NH5PA0YM
+[2024.09.17-20.26.12:600][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/92TM9OX4LXLF62NH5PA0YM73C9CFD54BEC14B890CC1DBA9394B4B4.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/0/UU/92TM9OX4LXLF62NH5PA0YM.uasset'
+[2024.09.17-20.26.12:611][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/4/7G/160B78WWYKDEQ8H0E1ME33
+[2024.09.17-20.26.12:611][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/160B78WWYKDEQ8H0E1ME33891D7AA345B20EBE6A42F295B5CBF27F.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/4/7G/160B78WWYKDEQ8H0E1ME33.uasset'
+[2024.09.17-20.26.12:622][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/5/DB/Q9DAF98J0OOZE0D5Z3IUBO
+[2024.09.17-20.26.12:622][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/Q9DAF98J0OOZE0D5Z3IUBODE131BCA4B64C99ECC3F04A2B687BA3D.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/5/DB/Q9DAF98J0OOZE0D5Z3IUBO.uasset'
+[2024.09.17-20.26.12:634][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/1/5X/MNHNPZJ64CO1CO7XGX6O20
+[2024.09.17-20.26.12:634][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/MNHNPZJ64CO1CO7XGX6O20558C25FF412A368E3687A0942A160232.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/1/5X/MNHNPZJ64CO1CO7XGX6O20.uasset'
+[2024.09.17-20.26.12:647][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/7/U6/KF7T5DKRVJI9VZ48A9HOHI
+[2024.09.17-20.26.12:647][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/KF7T5DKRVJI9VZ48A9HOHI13A8272840E58E607A903B805EF2A98C.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/7/U6/KF7T5DKRVJI9VZ48A9HOHI.uasset'
+[2024.09.17-20.26.12:659][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/0/XH/BJ1MAOCCFGJL1JQOL1XDAP
+[2024.09.17-20.26.12:659][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/BJ1MAOCCFGJL1JQOL1XDAP57BDAE914E2340DA7F8CF9AA223A33AE.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/0/XH/BJ1MAOCCFGJL1JQOL1XDAP.uasset'
+[2024.09.17-20.26.12:670][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/2/88/IVFNGU9EKSG88MNH3IN5RW
+[2024.09.17-20.26.12:670][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/IVFNGU9EKSG88MNH3IN5RWA0D562A045B84089D601B2B8FCB6162E.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/2/88/IVFNGU9EKSG88MNH3IN5RW.uasset'
+[2024.09.17-20.26.12:681][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/6/YM/A0RITO93OJQSA67FTW9VKH
+[2024.09.17-20.26.12:681][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/A0RITO93OJQSA67FTW9VKH3680FD4D43D1B7964357968F884246AA.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/6/YM/A0RITO93OJQSA67FTW9VKH.uasset'
+[2024.09.17-20.26.12:693][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/5/PK/F5ODAJ2AXYVWZTE82KTHKM
+[2024.09.17-20.26.12:693][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/F5ODAJ2AXYVWZTE82KTHKM06D6FF6C4AC79949A02412984EBACF09.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/5/PK/F5ODAJ2AXYVWZTE82KTHKM.uasset'
+[2024.09.17-20.26.12:704][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/3/JZ/7K5OA3P4O3S2G65GKKVGH9
+[2024.09.17-20.26.12:704][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/7K5OA3P4O3S2G65GKKVGH9CD4026C343843D25DA1D2B9056BAF5BA.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/3/JZ/7K5OA3P4O3S2G65GKKVGH9.uasset'
+[2024.09.17-20.26.12:716][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/2/VO/JV3UWTUXY1DK06062VFRAW
+[2024.09.17-20.26.12:716][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/JV3UWTUXY1DK06062VFRAW01E23B154E949700A4D714A2AE17B069.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/2/VO/JV3UWTUXY1DK06062VFRAW.uasset'
+[2024.09.17-20.26.12:786][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/9/4K/2QB3L88M03RBWAY64TBM4K
+[2024.09.17-20.26.12:786][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/2QB3L88M03RBWAY64TBM4KFB0467CA4E73E456A04BA58E01895D5A.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/9/4K/2QB3L88M03RBWAY64TBM4K.uasset'
+[2024.09.17-20.26.12:791][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/2/MZ/AOW4EIKOYZW8PP04HRMU3T
+[2024.09.17-20.26.12:791][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/AOW4EIKOYZW8PP04HRMU3TB52241A3458C974EE2F000BD7F741942.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/2/MZ/AOW4EIKOYZW8PP04HRMU3T.uasset'
+[2024.09.17-20.26.12:795][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/6/6A/VD6XSN8U5CRHYOHRT4YDHX
+[2024.09.17-20.26.12:795][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/VD6XSN8U5CRHYOHRT4YDHXDF23A943406C7383DF515990D11DAE3F.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/6/6A/VD6XSN8U5CRHYOHRT4YDHX.uasset'
+[2024.09.17-20.26.12:800][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/0/I8/659HE8VFI00O0YXCLM2WEB
+[2024.09.17-20.26.12:800][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/659HE8VFI00O0YXCLM2WEB8FE239904D0DA88E4091DC91672B0030.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/0/I8/659HE8VFI00O0YXCLM2WEB.uasset'
+[2024.09.17-20.26.12:805][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/9/88/4QRWHNS77KG06ETL7LLYQF
+[2024.09.17-20.26.12:805][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/4QRWHNS77KG06ETL7LLYQFF8D7E7584F9D830C0E305DA6470B6FA6.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/9/88/4QRWHNS77KG06ETL7LLYQF.uasset'
+[2024.09.17-20.26.12:809][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/8/6U/6TOV9FTOQATB7AXXUHMQ91
+[2024.09.17-20.26.12:809][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/6TOV9FTOQATB7AXXUHMQ91BB164C17400DDDA50DE03EA491F719D2.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/8/6U/6TOV9FTOQATB7AXXUHMQ91.uasset'
+[2024.09.17-20.26.12:813][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/5/V6/ZC4ZB46RPTVSF8I2OH3ZBG
+[2024.09.17-20.26.12:813][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/ZC4ZB46RPTVSF8I2OH3ZBG1A40D7984A19FDF37C8FC19DEF0775C8.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/5/V6/ZC4ZB46RPTVSF8I2OH3ZBG.uasset'
+[2024.09.17-20.26.12:817][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/0/OI/ZYGZHSD4LGBJVT3L3GOPVP
+[2024.09.17-20.26.12:817][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/ZYGZHSD4LGBJVT3L3GOPVP3492742A4D0228AF3A9138B76640147F.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/0/OI/ZYGZHSD4LGBJVT3L3GOPVP.uasset'
+[2024.09.17-20.26.12:821][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/C/YR/KYY4NABY2I6GBDGQ8PX7OF
+[2024.09.17-20.26.12:821][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/KYY4NABY2I6GBDGQ8PX7OFFFB707C446470761C8A4D78943B7B091.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/C/YR/KYY4NABY2I6GBDGQ8PX7OF.uasset'
+[2024.09.17-20.26.12:826][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/9/7V/1S9PTY1TY1ZKO30YEHK4X2
+[2024.09.17-20.26.12:826][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/1S9PTY1TY1ZKO30YEHK4X2AA22F09942483B77D5060690C3329F66.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/9/7V/1S9PTY1TY1ZKO30YEHK4X2.uasset'
+[2024.09.17-20.26.12:831][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/A/B6/19ELYMUL8MR8BTGWHFMH2I
+[2024.09.17-20.26.12:831][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/19ELYMUL8MR8BTGWHFMH2IB359D90F4891964F7CAE4DB1457BC269.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/A/B6/19ELYMUL8MR8BTGWHFMH2I.uasset'
+[2024.09.17-20.26.12:834][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/6/V2/B5ME8ME7O80XFF5I8EWKJ6
+[2024.09.17-20.26.12:835][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/B5ME8ME7O80XFF5I8EWKJ617E490394545A91A4DA3F4BC4BBD901A.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/6/V2/B5ME8ME7O80XFF5I8EWKJ6.uasset'
+[2024.09.17-20.26.12:839][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/C/AR/XK96XEXPS8VHYYV986WQCY
+[2024.09.17-20.26.12:839][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/XK96XEXPS8VHYYV986WQCYE2581EC04FCFE237EE19FA8D1C4A2C2D.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/C/AR/XK96XEXPS8VHYYV986WQCY.uasset'
+[2024.09.17-20.26.12:844][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/C/FV/M5O7BMMJZH8TSVJBOANM7S
+[2024.09.17-20.26.12:844][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/M5O7BMMJZH8TSVJBOANM7SE823837246F12682DE85AD95288624D0.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/C/FV/M5O7BMMJZH8TSVJBOANM7S.uasset'
+[2024.09.17-20.26.12:849][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/B/YS/F9MEQVN8CG2UNX0U6JILKT
+[2024.09.17-20.26.12:849][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/F9MEQVN8CG2UNX0U6JILKT6E4D9CF24C26891AA06ED4AFDE55009E.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/B/YS/F9MEQVN8CG2UNX0U6JILKT.uasset'
+[2024.09.17-20.26.12:854][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/4/K8/TI7F5F31ROA17KJK9FMUBY
+[2024.09.17-20.26.12:854][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/TI7F5F31ROA17KJK9FMUBY977F741F48EF5BBD957BED8C1A54A2C6.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/4/K8/TI7F5F31ROA17KJK9FMUBY.uasset'
+[2024.09.17-20.26.12:858][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/B/UJ/BMJ2DXW5SENVWE86UOFOJW
+[2024.09.17-20.26.12:858][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/BMJ2DXW5SENVWE86UOFOJW0A553BC94F724DF2D427768425A05144.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/B/UJ/BMJ2DXW5SENVWE86UOFOJW.uasset'
+[2024.09.17-20.26.12:862][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/C/2G/0WWXH1QHN184FAHT8PABVT
+[2024.09.17-20.26.12:862][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/0WWXH1QHN184FAHT8PABVTC4ED6EBF46BF87D9B85732BEEC5DFB72.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/C/2G/0WWXH1QHN184FAHT8PABVT.uasset'
+[2024.09.17-20.26.12:868][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/2/KO/A71Z7H17KP4M2HYI9RQB9F
+[2024.09.17-20.26.12:868][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/A71Z7H17KP4M2HYI9RQB9FF6531D9141690D8448753B90564D3434.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/2/KO/A71Z7H17KP4M2HYI9RQB9F.uasset'
+[2024.09.17-20.26.12:871][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/F/01/WTH6MGZ2OBILJCDAOT7E3T
+[2024.09.17-20.26.12:871][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/WTH6MGZ2OBILJCDAOT7E3TF3C1DAEE497FAFBE57CC0A9F4EC6D01F.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/F/01/WTH6MGZ2OBILJCDAOT7E3T.uasset'
+[2024.09.17-20.26.12:874][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/7/WD/0HWY65CAHZ211IHGE8KBMC
+[2024.09.17-20.26.12:874][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/0HWY65CAHZ211IHGE8KBMCD77684434E58FDC1AEA8F2B19D3414EC.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/7/WD/0HWY65CAHZ211IHGE8KBMC.uasset'
+[2024.09.17-20.26.12:879][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/2/WU/VVY5PRL4TQ5TJ8D54SOORP
+[2024.09.17-20.26.12:879][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/VVY5PRL4TQ5TJ8D54SOORPF8B670974A8DBBBD6C8044B078FEE2DC.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/2/WU/VVY5PRL4TQ5TJ8D54SOORP.uasset'
+[2024.09.17-20.26.12:883][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/7/FF/DZU7IXY40PSJC0586V271E
+[2024.09.17-20.26.12:883][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/DZU7IXY40PSJC0586V271EF09820B7427525F0B3191CBA3C415B0B.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/7/FF/DZU7IXY40PSJC0586V271E.uasset'
+[2024.09.17-20.26.12:888][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/E/IF/TCIKO2ZK1HNFS0HKG62PY6
+[2024.09.17-20.26.12:888][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/TCIKO2ZK1HNFS0HKG62PY6F9B126CD410BFD79BF8F17A1F319B844.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/E/IF/TCIKO2ZK1HNFS0HKG62PY6.uasset'
+[2024.09.17-20.26.12:892][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/C/ZO/QD78RUEFL5JQNJ7VQEGPFE
+[2024.09.17-20.26.12:892][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/QD78RUEFL5JQNJ7VQEGPFE967653E74BBE665C86DC03ABCA1F80D6.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/C/ZO/QD78RUEFL5JQNJ7VQEGPFE.uasset'
+[2024.09.17-20.26.12:896][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/6/DP/P1BLBOE5XRQLNWNZ5J5X1J
+[2024.09.17-20.26.12:896][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/P1BLBOE5XRQLNWNZ5J5X1JCA09BD534F2ADFED262287A9B2929C8C.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/6/DP/P1BLBOE5XRQLNWNZ5J5X1J.uasset'
+[2024.09.17-20.26.12:901][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/C/NB/C7H9JT6WPIVY6M9MTP9PYT
+[2024.09.17-20.26.12:901][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/C7H9JT6WPIVY6M9MTP9PYT7FEBA5C34AD3DF10748B22AFDD0A04F8.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/C/NB/C7H9JT6WPIVY6M9MTP9PYT.uasset'
+[2024.09.17-20.26.12:906][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/1/OM/E1KG7VWJ6MIMYEL9USNY1M
+[2024.09.17-20.26.12:906][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/E1KG7VWJ6MIMYEL9USNY1M7D08E3824CA36BCD09140DA93FB0F15B.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/1/OM/E1KG7VWJ6MIMYEL9USNY1M.uasset'
+[2024.09.17-20.26.12:911][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/0/X8/NT2TY4VKO21ERO4C0GF2V8
+[2024.09.17-20.26.12:911][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/NT2TY4VKO21ERO4C0GF2V89B0B012E45B57F010EACBFACFA540D70.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/0/X8/NT2TY4VKO21ERO4C0GF2V8.uasset'
+[2024.09.17-20.26.12:914][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/A/DN/NJM18T7BJAK1B5A9HJV3HE
+[2024.09.17-20.26.12:914][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/NJM18T7BJAK1B5A9HJV3HE02A8D11F4D81051C4F8DD0811F0816AD.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/A/DN/NJM18T7BJAK1B5A9HJV3HE.uasset'
+[2024.09.17-20.26.12:919][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/F/3B/TAPR7F6VEONS4HHT977680
+[2024.09.17-20.26.12:919][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/TAPR7F6VEONS4HHT97768020321C874AAA0C3561488185B06DEECA.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/F/3B/TAPR7F6VEONS4HHT977680.uasset'
+[2024.09.17-20.26.12:924][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/E/W0/VMDBL3GHOZWD08IJ16BREU
+[2024.09.17-20.26.12:924][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/VMDBL3GHOZWD08IJ16BREUA93CA5F54FAD2666717810A9330370FA.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/E/W0/VMDBL3GHOZWD08IJ16BREU.uasset'
+[2024.09.17-20.26.12:928][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/C/JB/HT4DCPR4TAIEEQHDABZ2S9
+[2024.09.17-20.26.12:928][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/HT4DCPR4TAIEEQHDABZ2S97BD9FFE4462A308C8D5B79B94CACF107.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/C/JB/HT4DCPR4TAIEEQHDABZ2S9.uasset'
+[2024.09.17-20.26.12:931][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/2/8N/ZHY7VDT0VT0G3NUSV6SXYH
+[2024.09.17-20.26.12:931][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/ZHY7VDT0VT0G3NUSV6SXYHADA3FB044547AD9062357BB83F3D30E4.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/2/8N/ZHY7VDT0VT0G3NUSV6SXYH.uasset'
+[2024.09.17-20.26.12:935][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/0/IF/YRFBDSMI1B4F7AOCIG5DSP
+[2024.09.17-20.26.12:935][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/YRFBDSMI1B4F7AOCIG5DSP1204E8C447E27EEA80166DA024D9736E.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/0/IF/YRFBDSMI1B4F7AOCIG5DSP.uasset'
+[2024.09.17-20.26.12:939][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/5/9Y/UJ6FAN778EQ2XFVUR2IXNO
+[2024.09.17-20.26.12:939][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/UJ6FAN778EQ2XFVUR2IXNO52AC63194D6A5398F924F38FA5A4D72B.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/5/9Y/UJ6FAN778EQ2XFVUR2IXNO.uasset'
+[2024.09.17-20.26.12:944][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/2/QT/GX7JVX3JPMN7ABVFRU8VTK
+[2024.09.17-20.26.12:944][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/GX7JVX3JPMN7ABVFRU8VTK942BEADA4CABD432EAA414A86C33136F.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/2/QT/GX7JVX3JPMN7ABVFRU8VTK.uasset'
+[2024.09.17-20.26.12:947][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/E/P4/DL5SPBFDWF935X8U19FEAD
+[2024.09.17-20.26.12:947][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/DL5SPBFDWF935X8U19FEAD8903AF884D02CB5A8400D5B5DC9000F0.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/E/P4/DL5SPBFDWF935X8U19FEAD.uasset'
+[2024.09.17-20.26.12:952][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/D/W1/C2YXJ3C26WY7C8QJ3HBYHQ
+[2024.09.17-20.26.12:952][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/C2YXJ3C26WY7C8QJ3HBYHQADE69F5842E2B4D2AD6B00AB9548E4AA.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/D/W1/C2YXJ3C26WY7C8QJ3HBYHQ.uasset'
+[2024.09.17-20.26.12:956][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/7/Z9/2KAVJH4510AWMEFX8WPQ8D
+[2024.09.17-20.26.12:956][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/2KAVJH4510AWMEFX8WPQ8DD77C09FE4284D5B193FFA8BBE6BD3243.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/7/Z9/2KAVJH4510AWMEFX8WPQ8D.uasset'
+[2024.09.17-20.26.12:960][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/7/UJ/J88MMCDTPMO6TK66XDPXDT
+[2024.09.17-20.26.12:960][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/J88MMCDTPMO6TK66XDPXDTB6B1FD9C4F21EE928A66E79889B5B273.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/7/UJ/J88MMCDTPMO6TK66XDPXDT.uasset'
+[2024.09.17-20.26.12:964][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/E/PS/2JFLZA4WSW93024L291OMJ
+[2024.09.17-20.26.12:964][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/2JFLZA4WSW93024L291OMJ357520AC47A40469B51797AFD28AA9CA.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/E/PS/2JFLZA4WSW93024L291OMJ.uasset'
+[2024.09.17-20.26.12:968][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/1/S7/M9O6YO8NR1SUQN5C78KMTT
+[2024.09.17-20.26.12:968][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/M9O6YO8NR1SUQN5C78KMTTD92321FB4CA51ACFA63D6C83D2BB59B6.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/1/S7/M9O6YO8NR1SUQN5C78KMTT.uasset'
+[2024.09.17-20.26.12:972][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/E/I5/EZXHVSXPTS6VV11ZEHBGVJ
+[2024.09.17-20.26.12:972][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/EZXHVSXPTS6VV11ZEHBGVJ2DCC8468400EC72C5099DEAC45B2A7B3.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/E/I5/EZXHVSXPTS6VV11ZEHBGVJ.uasset'
+[2024.09.17-20.26.12:987][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/D/4S/6O1V2SKUIY08DVHTS66ECK
+[2024.09.17-20.26.12:987][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/6O1V2SKUIY08DVHTS66ECK314E996142CEA3D64B0CFDB6DC186E4B.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/D/4S/6O1V2SKUIY08DVHTS66ECK.uasset'
+[2024.09.17-20.26.12:991][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/6/W6/OBJWN2LVEJ9F33SEAPY7NI
+[2024.09.17-20.26.12:991][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/OBJWN2LVEJ9F33SEAPY7NICD0DB53344AD7A36947539AB3FE30EC1.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/6/W6/OBJWN2LVEJ9F33SEAPY7NI.uasset'
+[2024.09.17-20.26.12:995][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/9/3B/6I2XSGN1C7OSU1TXOLSU3G
+[2024.09.17-20.26.12:995][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/6I2XSGN1C7OSU1TXOLSU3G109CAFBC4667023EAC4B8791F77CE8A5.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/9/3B/6I2XSGN1C7OSU1TXOLSU3G.uasset'
+[2024.09.17-20.26.12:999][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/D/QO/5W7EY27Q0V02FSPUVZ3Q10
+[2024.09.17-20.26.12:999][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/5W7EY27Q0V02FSPUVZ3Q106597870A45C77C3FC44B37B49695A81E.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/D/QO/5W7EY27Q0V02FSPUVZ3Q10.uasset'
+[2024.09.17-20.26.13:002][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/8/R4/0N9WUK8UTV88UIIS9EZJAW
+[2024.09.17-20.26.13:002][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/0N9WUK8UTV88UIIS9EZJAW4EC5FD13426B889D25157181620F7FB6.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/8/R4/0N9WUK8UTV88UIIS9EZJAW.uasset'
+[2024.09.17-20.26.13:006][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/A/KE/FA1RNR0ROQSM4OUQ3351SO
+[2024.09.17-20.26.13:006][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/FA1RNR0ROQSM4OUQ3351SO39A41B37456BB7930C91568620283A8F.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/A/KE/FA1RNR0ROQSM4OUQ3351SO.uasset'
+[2024.09.17-20.26.13:010][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/6/NV/BAZO007XQWD87NQC1CNV5A
+[2024.09.17-20.26.13:010][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/BAZO007XQWD87NQC1CNV5AF69FF86F4A56C977DC2F3EB15CF5212A.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/6/NV/BAZO007XQWD87NQC1CNV5A.uasset'
+[2024.09.17-20.26.13:015][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/5/LP/3HV7JJATYJIDEUHXGQYNKV
+[2024.09.17-20.26.13:015][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/3HV7JJATYJIDEUHXGQYNKVA4EEBAE14A84796BC7207188B881BE93.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/5/LP/3HV7JJATYJIDEUHXGQYNKV.uasset'
+[2024.09.17-20.26.13:019][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/4/1U/0SOV54P7AVRFXU90GLBR0P
+[2024.09.17-20.26.13:019][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/0SOV54P7AVRFXU90GLBR0P9003537E4AF5C0F790A41387AB76D648.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/4/1U/0SOV54P7AVRFXU90GLBR0P.uasset'
+[2024.09.17-20.26.13:022][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/B/U9/REYKLZ5XGGFFQ3EEMD4TWN
+[2024.09.17-20.26.13:022][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/REYKLZ5XGGFFQ3EEMD4TWNE7F645B1436CAF5A5C218482F18823E6.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/B/U9/REYKLZ5XGGFFQ3EEMD4TWN.uasset'
+[2024.09.17-20.26.13:026][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/F/00/2ZWZ812H409QDXU2VHPH2J
+[2024.09.17-20.26.13:027][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/2ZWZ812H409QDXU2VHPH2JBC43D3794E8AEC3081F9068908E872CF.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/F/00/2ZWZ812H409QDXU2VHPH2J.uasset'
+[2024.09.17-20.26.13:030][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/B/1Q/W9IWATMILMQBOYZR6DAYYH
+[2024.09.17-20.26.13:030][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/W9IWATMILMQBOYZR6DAYYH4A56156B400D26929AE4D0A4B363620D.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/B/1Q/W9IWATMILMQBOYZR6DAYYH.uasset'
+[2024.09.17-20.26.13:035][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/6/83/JVO4KOK92YPCRZUHY46DA7
+[2024.09.17-20.26.13:035][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/JVO4KOK92YPCRZUHY46DA7FD3DD6C6457B474EB5F556AEE1703CDF.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/6/83/JVO4KOK92YPCRZUHY46DA7.uasset'
+[2024.09.17-20.26.13:039][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/4/ZK/54BXU91S2UB43PEKLMD55B
+[2024.09.17-20.26.13:039][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/54BXU91S2UB43PEKLMD55B6617687F4E2348617B7DBE9BE81DE6D8.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/4/ZK/54BXU91S2UB43PEKLMD55B.uasset'
+[2024.09.17-20.26.13:044][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/B/UB/HKLT2MY2LLZ7C89DQ151DI
+[2024.09.17-20.26.13:044][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/HKLT2MY2LLZ7C89DQ151DI649D311D46E3E49AEC57C488131301CF.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/B/UB/HKLT2MY2LLZ7C89DQ151DI.uasset'
+[2024.09.17-20.26.13:049][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/4/H7/WM76SOE1V7E2LEUM0TX628
+[2024.09.17-20.26.13:049][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/WM76SOE1V7E2LEUM0TX6284871B2D24CA9AAB78486339441BC9274.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/4/H7/WM76SOE1V7E2LEUM0TX628.uasset'
+[2024.09.17-20.26.13:053][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/7/FC/JWRSJUHP2GOLYMPT15SH10
+[2024.09.17-20.26.13:053][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/JWRSJUHP2GOLYMPT15SH10AAC87192451B18DB0201AFAD1877FDFC.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/7/FC/JWRSJUHP2GOLYMPT15SH10.uasset'
+[2024.09.17-20.26.13:057][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/9/D3/JY2P0EM3UHCNEFUF7RAC79
+[2024.09.17-20.26.13:057][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/JY2P0EM3UHCNEFUF7RAC791A9E129D4862209FA282A2B7341EC3B9.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/9/D3/JY2P0EM3UHCNEFUF7RAC79.uasset'
+[2024.09.17-20.26.13:061][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/9/0Q/601LQPQDHSBH89Y736CFMJ
+[2024.09.17-20.26.13:061][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/601LQPQDHSBH89Y736CFMJ0CE4A3CC4749D11C308292919C5163AD.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/9/0Q/601LQPQDHSBH89Y736CFMJ.uasset'
+[2024.09.17-20.26.13:065][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/D/RY/AXHFYN99F9T6QLXEHVJ02Y
+[2024.09.17-20.26.13:065][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/AXHFYN99F9T6QLXEHVJ02Y01DB41C34123DB565258D8AE4B3E0C1C.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/D/RY/AXHFYN99F9T6QLXEHVJ02Y.uasset'
+[2024.09.17-20.26.13:067][296]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/Map/6/50/XHKGYBF90Z6KCNIG18Y5GQ
+[2024.09.17-20.26.13:067][296]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/XHKGYBF90Z6KCNIG18Y5GQ2332F2BE4F4638EBA881F2911E4FF7B9.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/__ExternalActors__/Maps/Map/6/50/XHKGYBF90Z6KCNIG18Y5GQ.uasset'
+[2024.09.17-20.26.13:068][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.24 sec (total: 1.70 sec)
+[2024.09.17-20.26.13:071][296]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/Maps/Map_HLOD0_Instancing
+/Game/__ExternalActors__/Maps/Map/9/FD/Z3F2WRIWAZUMIY7O0BSM9C
+/Game/__ExternalObjects__/Maps/Map/6/B7/EERCDDXYYGAMEVU0633RK4
+/Game/__ExternalObjects__/Maps/Map/4/6M/R7ZZ1OIBVEHAQVO51HVPUP
+/Game/__ExternalObjects__/Maps/Map/B/8V/D8MCHKTANALX9GXMUJ3D19
+/Game/__ExternalObjects__/Maps/Map/7/T7/635PU42X6J6ERKAAX4LK6S
+/Game/__ExternalObjects__/Maps/Map/C/X1/JP1RXWU45TOAZVTUX4LCNX
+/Game/__ExternalObjects__/Maps/Map/9/J3/2U95R5PHYH3V5HERE994A6
+/Game/__ExternalActors__/Maps/Map/5/TV/RZ8OFHWV0RDF1NNCM9EOBQ
+/Game/__ExternalActors__/Maps/Map/0/40/QK3WTNL4OELF2XDD4SLNL5
+/Game/__ExternalActors__/Maps/Map/D/62/FB241YQ2Q5GV6RBRYP0XMH
+/Game/__ExternalActors__/Maps/Map/C/LI/XDWBL3JCZP78Q2S9G6EGQW
+/Game/__ExternalActors__/Maps/Map/B/WY/V2JMVA9TVKEYU8DN3CCFHE
+/Game/__ExternalActors__/Maps/Map/3/SB/O4VRDLBRZ2F755NCGY6J4O
+/Game/__ExternalActors__/Maps/Map/2/LA/4X8P0THXWAWMFAP64TI8FA
+/Game/__ExternalActors__/Maps/Map/5/8J/ZFWD3TWI3CNSNWV8BMLL7T
+/Game/__ExternalActors__/Maps/Map/5/SP/63LB8H8R8PJKU4BFGFVH7I
+/Game/__ExternalActors__/Maps/Map/9/SR/3QX4Q4IDV7POVDRV9I7NM7
+/Game/__ExternalActors__/Maps/Map/8/6Z/GN14IZY5CR9PRO2VN7004S
+/Game/__ExternalActors__/Maps/Map/B/44/NKXTZ9MWIJKEGACTPS0BMY
+/Game/__ExternalActors__/Maps/Map/E/6B/8YGOE6RCXP2TX8Q2H239WW
+/Game/__ExternalActors__/Maps/Map/E/YE/T3WF81T9E0CTS66KYNCUJT
+/Game/__ExternalActors__/Maps/Map/7/OB/ACY1LT4CCR5VRF94J1IZAR
+/Game/__ExternalActors__/Maps/Map/4/2K/SLTW3VK70U41TWDARUEIWS
+/Game/__ExternalActors__/Maps/Map/E/FE/QDW9Q3YP5KOR8RWT0YGLND
+/Game/__ExternalActors__/Maps/Map/3/7S/5IB4RHTDIZA8W8KK336WMZ
+/Game/__ExternalActors__/Maps/Map/D/4C/7QGWMHKUTHX6YC72XHI52Y
+/Game/__ExternalActors__/Maps/Map/6/2A/EQ4646S7RXYPZXJBKNHANB
+/Game/__ExternalActors__/Maps/Map/A/UT/7KPRY6NO2AKRPLK1VZHXYC
+/Game/__ExternalActors__/Maps/Map/0/OA/TWKK3X76Q75L2SNSJXVMU5
+/Game/__ExternalActors__/Maps/Map/4/OE/ND1IVFWEP70APDF8YOJ7AT
+/Game/__ExternalActors__/Maps/Map/5/VF/1PXGJUD4T5SD4VVZ057AO8
+/Game/__ExternalActors__/Maps/Map/C/ND/EJNQNK4KLS2ZWEYV1RPG68
+/Game/__ExternalActors__/Maps/Map/4/JC/N0P0NY46TJSV528XOPFIRJ
+/Game/__ExternalActors__/Maps/Map/5/24/CDBIYLKUSZNWAZJI8IZOV5
+/Game/__ExternalActors__/Maps/Map/5/5U/ZGYATUFPKM06IE7CWGQF3I
+/Game/__ExternalActors__/Maps/Map/A/5X/6UV3HV5QF341KBXUHE4MD6
+/Game/__ExternalActors__/Maps/Map/2/SC/IRZFTFAMDCRA8XOWDQKYR0
+/Game/__ExternalActors__/Maps/Map/9/ZE/B5XYTNUEHLQ5XXMTK858HK
+/Game/__ExternalActors__/Maps/Map/D/4G/UL8C87HB53Y0SQ2H5GW2JL
+/Game/__ExternalActors__/Maps/Map/0/4A/RYQR890X6MFJFVBJ7ECRHT
+/Game/__ExternalActors__/Maps/Map/2/YZ/XH7ZW3D22ZY6JLO5OEJTJY
+/Game/__ExternalActors__/Maps/Map/C/4J/KWZIB5Z0GQD59T34UWMKIN
+/Game/__ExternalActors__/Maps/Map/0/T0/0HPQT29YF8F34ZS5P4KH59
+/Game/__ExternalActors__/Maps/Map/1/FW/FZXTGO8C6SQ0HI3D54SE29
+/Game/__ExternalActors__/Maps/Map/E/EC/AJOHCIVNMS7V6317SPXXTB
+/Game/__ExternalActors__/Maps/Map/1/HX/JCW51PUUO95GPC4IBOYVJI
+/Game/__ExternalActors__/Maps/Map/9/M2/4ASPIYB7OZMVTXPDJLYGE0
+/Game/__ExternalActors__/Maps/Map/0/KR/JRP46UMYHPAOZJTKIEM9JR
+/Game/__ExternalActors__/Maps/Map/E/QQ/U39BW60PMR6LVU0LM6GXW8
+/Game/__ExternalActors__/Maps/Map/8/81/FDPJFPR1GCGO9WZTTV3RK5
+/Game/__ExternalActors__/Maps/Map/7/NU/4KE25EBH7CV18UXCO90L2M
+/Game/__ExternalActors__/Maps/Map/7/5K/O6KCJ74818G04Q6I6SEQGU
+/Game/__ExternalActors__/Maps/Map/4/2M/1U187HPKVT1FN3HW6XNCWT
+/Game/__ExternalActors__/Maps/Map/4/O4/FJFDUMCLXUU3VL4LJ3MXCL
+/Game/__ExternalActors__/Maps/Map/C/YV/9NU9QKUXFJ92400HQZLW9R
+/Game/__ExternalActors__/Maps/Map/B/1N/WN5L0KCETHLCFICG3YO2EA
+/Game/__ExternalActors__/Maps/Map/3/GO/4626Q5U7ON3QTTMC9B16DK
+/Game/__ExternalActors__/Maps/Map/9/YS/56OI5NIV2EMO613LIJSB16
+/Game/__ExternalActors__/Maps/Map/8/U5/11IPCN2XTROG1BPJESTDMM
+/Game/__ExternalActors__/Maps/Map/D/XH/CJLLMCUAIFYO5JW1DKLG2M
+/Game/__ExternalActors__/Maps/Map/3/LV/4CLIVVD9P7IOYNMYOXACG3
+/Game/__ExternalActors__/Maps/Map/5/9B/UIGXYUR7NVOEMO7AWSNDCB
+/Game/__ExternalActors__/Maps/Map/7/CK/DQL15FZKZ5O9B545P9RL4A
+/Game/__ExternalActors__/Maps/Map/1/SF/X76ROL1FDC7FQY2U9WCV0C
+/Game/__ExternalActors__/Maps/Map/2/6A/6GAC1SBRLG3OMJBW6UCRDU
+/Game/__ExternalActors__/Maps/Map/C/W6/KMUPMYLRFQW1YHZKHMYWHB
+/Game/__ExternalActors__/Maps/Map/3/Y5/AR8WNECJ45522AQQCLWFVV
+/Game/__ExternalActors__/Maps/Map/8/ZQ/X20DD0ZB6F8MSHZLEBDC5Y
+/Game/__ExternalActors__/Maps/Map/0/UU/92TM9OX4LXLF62NH5PA0YM
+/Game/__ExternalActors__/Maps/Map/4/7G/160B78WWYKDEQ8H0E1ME33
+/Game/__ExternalActors__/Maps/Map/5/DB/Q9DAF98J0OOZE0D5Z3IUBO
+/Game/__ExternalActors__/Maps/Map/1/5X/MNHNPZJ64CO1CO7XGX6O20
+/Game/__ExternalActors__/Maps/Map/7/U6/KF7T5DKRVJI9VZ48A9HOHI
+/Game/__ExternalActors__/Maps/Map/0/XH/BJ1MAOCCFGJL1JQOL1XDAP
+/Game/__ExternalActors__/Maps/Map/2/88/IVFNGU9EKSG88MNH3IN5RW
+/Game/__ExternalActors__/Maps/Map/6/YM/A0RITO93OJQSA67FTW9VKH
+/Game/__ExternalActors__/Maps/Map/5/PK/F5ODAJ2AXYVWZTE82KTHKM
+/Game/__ExternalActors__/Maps/Map/3/JZ/7K5OA3P4O3S2G65GKKVGH9
+/Game/__ExternalActors__/Maps/Map/2/VO/JV3UWTUXY1DK06062VFRAW
+/Game/__ExternalActors__/Maps/Map/9/4K/2QB3L88M03RBWAY64TBM4K
+/Game/__ExternalActors__/Maps/Map/2/MZ/AOW4EIKOYZW8PP04HRMU3T
+/Game/__ExternalActors__/Maps/Map/6/6A/VD6XSN8U5CRHYOHRT4YDHX
+/Game/__ExternalActors__/Maps/Map/0/I8/659HE8VFI00O0YXCLM2WEB
+/Game/__ExternalActors__/Maps/Map/9/88/4QRWHNS77KG06ETL7LLYQF
+/Game/__ExternalActors__/Maps/Map/8/6U/6TOV9FTOQATB7AXXUHMQ91
+/Game/__ExternalActors__/Maps/Map/5/V6/ZC4ZB46RPTVSF8I2OH3ZBG
+/Game/__ExternalActors__/Maps/Map/0/OI/ZYGZHSD4LGBJVT3L3GOPVP
+/Game/__ExternalActors__/Maps/Map/C/YR/KYY4NABY2I6GBDGQ8PX7OF
+/Game/__ExternalActors__/Maps/Map/9/7V/1S9PTY1TY1ZKO30YEHK4X2
+/Game/__ExternalActors__/Maps/Map/A/B6/19ELYMUL8MR8BTGWHFMH2I
+/Game/__ExternalActors__/Maps/Map/6/V2/B5ME8ME7O80XFF5I8EWKJ6
+/Game/__ExternalActors__/Maps/Map/C/AR/XK96XEXPS8VHYYV986WQCY
+/Game/__ExternalActors__/Maps/Map/C/FV/M5O7BMMJZH8TSVJBOANM7S
+/Game/__ExternalActors__/Maps/Map/B/YS/F9MEQVN8CG2UNX0U6JILKT
+/Game/__ExternalActors__/Maps/Map/4/K8/TI7F5F31ROA17KJK9FMUBY
+/Game/__ExternalActors__/Maps/Map/B/UJ/BMJ2DXW5SENVWE86UOFOJW
+/Game/__ExternalActors__/Maps/Map/C/2G/0WWXH1QHN184FAHT8PABVT
+/Game/__ExternalActors__/Maps/Map/2/KO/A71Z7H17KP4M2HYI9RQB9F
+/Game/__ExternalActors__/Maps/Map/F/01/WTH6MGZ2OBILJCDAOT7E3T
+/Game/__ExternalActors__/Maps/Map/7/WD/0HWY65CAHZ211IHGE8KBMC
+/Game/__ExternalActors__/Maps/Map/2/WU/VVY5PRL4TQ5TJ8D54SOORP
+/Game/__ExternalActors__/Maps/Map/7/FF/DZU7IXY40PSJC0586V271E
+/Game/__ExternalActors__/Maps/Map/E/IF/TCIKO2ZK1HNFS0HKG62PY6
+/Game/__ExternalActors__/Maps/Map/C/ZO/QD78RUEFL5JQNJ7VQEGPFE
+/Game/__ExternalActors__/Maps/Map/6/DP/P1BLBOE5XRQLNWNZ5J5X1J
+/Game/__ExternalActors__/Maps/Map/C/NB/C7H9JT6WPIVY6M9MTP9PYT
+/Game/__ExternalActors__/Maps/Map/1/OM/E1KG7VWJ6MIMYEL9USNY1M
+/Game/__ExternalActors__/Maps/Map/0/X8/NT2TY4VKO21ERO4C0GF2V8
+/Game/__ExternalActors__/Maps/Map/A/DN/NJM18T7BJAK1B5A9HJV3HE
+/Game/__ExternalActors__/Maps/Map/F/3B/TAPR7F6VEONS4HHT977680
+/Game/__ExternalActors__/Maps/Map/E/W0/VMDBL3GHOZWD08IJ16BREU
+/Game/__ExternalActors__/Maps/Map/C/JB/HT4DCPR4TAIEEQHDABZ2S9
+/Game/__ExternalActors__/Maps/Map/2/8N/ZHY7VDT0VT0G3NUSV6SXYH
+/Game/__ExternalActors__/Maps/Map/0/IF/YRFBDSMI1B4F7AOCIG5DSP
+/Game/__ExternalActors__/Maps/Map/5/9Y/UJ6FAN778EQ2XFVUR2IXNO
+/Game/__ExternalActors__/Maps/Map/2/QT/GX7JVX3JPMN7ABVFRU8VTK
+/Game/__ExternalActors__/Maps/Map/E/P4/DL5SPBFDWF935X8U19FEAD
+/Game/__ExternalActors__/Maps/Map/D/W1/C2YXJ3C26WY7C8QJ3HBYHQ
+/Game/__ExternalActors__/Maps/Map/7/Z9/2KAVJH4510AWMEFX8WPQ8D
+/Game/__ExternalActors__/Maps/Map/7/UJ/J88MMCDTPMO6TK66XDPXDT
+/Game/__ExternalActors__/Maps/Map/E/PS/2JFLZA4WSW93024L291OMJ
+/Game/__ExternalActors__/Maps/Map/1/S7/M9O6YO8NR1SUQN5C78KMTT
+/Game/__ExternalActors__/Maps/Map/E/I5/EZXHVSXPTS6VV11ZEHBGVJ
+/Game/__ExternalActors__/Maps/Map/D/4S/6O1V2SKUIY08DVHTS66ECK
+/Game/__ExternalActors__/Maps/Map/6/W6/OBJWN2LVEJ9F33SEAPY7NI
+/Game/__ExternalActors__/Maps/Map/9/3B/6I2XSGN1C7OSU1TXOLSU3G
+/Game/__ExternalActors__/Maps/Map/D/QO/5W7EY27Q0V02FSPUVZ3Q10
+/Game/__ExternalActors__/Maps/Map/8/R4/0N9WUK8UTV88UIIS9EZJAW
+/Game/__ExternalActors__/Maps/Map/A/KE/FA1RNR0ROQSM4OUQ3351SO
+/Game/__ExternalActors__/Maps/Map/6/NV/BAZO007XQWD87NQC1CNV5A
+/Game/__ExternalActors__/Maps/Map/5/LP/3HV7JJATYJIDEUHXGQYNKV
+/Game/__ExternalActors__/Maps/Map/4/1U/0SOV54P7AVRFXU90GLBR0P
+/Game/__ExternalActors__/Maps/Map/B/U9/REYKLZ5XGGFFQ3EEMD4TWN
+/Game/__ExternalActors__/Maps/Map/F/00/2ZWZ812H409QDXU2VHPH2J
+/Game/__ExternalActors__/Maps/Map/B/1Q/W9IWATMILMQBOYZR6DAYYH
+/Game/__ExternalActors__/Maps/Map/6/83/JVO4KOK92YPCRZUHY46DA7
+/Game/__ExternalActors__/Maps/Map/4/ZK/54BXU91S2UB43PEKLMD55B
+/Game/__ExternalActors__/Maps/Map/B/UB/HKLT2MY2LLZ7C89DQ151DI
+/Game/__ExternalActors__/Maps/Map/4/H7/WM76SOE1V7E2LEUM0TX628
+/Game/__ExternalActors__/Maps/Map/7/FC/JWRSJUHP2GOLYMPT15SH10
+/Game/__ExternalActors__/Maps/Map/9/D3/JY2P0EM3UHCNEFUF7RAC79
+/Game/__ExternalActors__/Maps/Map/9/0Q/601LQPQDHSBH89Y736CFMJ
+/Game/__ExternalActors__/Maps/Map/D/RY/AXHFYN99F9T6QLXEHVJ02Y
+/Game/__ExternalActors__/Maps/Map/6/50/XHKGYBF90Z6KCNIG18Y5GQ
+[2024.09.17-20.26.13:127][296]LogFileHelpers: Saving map 'Map' took 1.554
+[2024.09.17-20.26.13:127][296]Cmd: MAP LOAD FILE="../../../../GDW-5/Tutorial2/Tutorial2/Content/Maps/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.09.17-20.26.13:158][296]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2024.09.17-20.26.13:159][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.17-20.26.13:159][296]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/Map.Map
+[2024.09.17-20.26.13:162][296]LogContentBundle: [Map(Standalone)] Deleting container.
+[2024.09.17-20.26.13:163][296]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.17-20.26.13:163][296]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.17-20.26.13:177][296]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.17-20.26.13:213][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.09.17-20.26.13:222][296]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map'.
+[2024.09.17-20.26.13:222][296]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.17-20.26.13:223][296]LogWorldPartition: ULevel::OnLevelLoaded(Map)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.09.17-20.26.13:223][296]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.09.17-20.26.13:223][296]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/Map.Map, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.09.17-20.26.13:226][296]LogStreaming: Display: FlushAsyncLoading(317): 9 QueuedPackages, 0 AsyncPackages
+[2024.09.17-20.26.13:430][296]LogContentBundle: [Map(Standalone)] Creating new container.
+[2024.09.17-20.26.13:430][296]LogWorldPartition: Display: WorldPartition initialize took 207.447 ms (total: 459.771 ms)
+[2024.09.17-20.26.13:848][296]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.09.17-20.26.13:867][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.09.17-20.26.13:871][296]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.09.17-20.26.13:872][296]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.053ms to complete.
+[2024.09.17-20.26.14:655][296]LogContentValidation: Display: Starting to validate 146 assets
+[2024.09.17-20.26.14:655][296]LogContentValidation: Enabled validators:
+[2024.09.17-20.26.14:655][296]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.17-20.26.14:655][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.17-20.26.14:655][296]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.17-20.26.14:655][296]LogContentValidation: Display: Validating asset /Game/Maps/Map.Map
+[2024.09.17-20.26.14:655][296]AssetCheck: /Game/Maps/Map Validating asset
+[2024.09.17-20.26.14:655][296]LogContentValidation: Display: Validating asset /Game/Maps/Map_HLOD0_Instancing.Map_HLOD0_Instancing
+[2024.09.17-20.26.14:655][296]AssetCheck: /Game/Maps/Map_HLOD0_Instancing Validating asset
+[2024.09.17-20.27.24:545][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.17-20.27.24:585][622]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/IMC_Default] ([1] browsable assets)...
+[2024.09.17-20.27.24:585][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/IMC_Default]
+[2024.09.17-20.27.24:585][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/IMC_Default" FILE="../../../../GDW-5/Tutorial2/Tutorial2/Content/Blueprints/Player/IMC_Default.uasset" SILENT=true
+[2024.09.17-20.27.24:586][622]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/IMC_Default
+[2024.09.17-20.27.24:586][622]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/IMC_DefaultBAAD1C5E42E696FD024C4385788AF6F6.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/Blueprints/Player/IMC_Default.uasset'
+[2024.09.17-20.27.24:600][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.602 ms (total: 1.76 sec)
+[2024.09.17-20.27.24:644][622]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.17-20.27.24:644][622]LogContentValidation: Enabled validators:
+[2024.09.17-20.27.24:644][622]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.17-20.27.24:644][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.17-20.27.24:644][622]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.17-20.27.24:644][622]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/IMC_Default.IMC_Default
+[2024.09.17-20.27.24:644][622]AssetCheck: /Game/Blueprints/Player/IMC_Default Validating asset
+[2024.09.17-20.27.50:596][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.09.17-20.27.57:448][945]LogSlate: Window 'Save Content' being destroyed
+[2024.09.17-20.27.57:456][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.17-20.27.57:499][945]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/InputActions/IA_Jump] ([1] browsable assets)...
+[2024.09.17-20.27.57:499][945]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/InputActions/IA_Jump]
+[2024.09.17-20.27.57:499][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/InputActions/IA_Jump" FILE="../../../../GDW-5/Tutorial2/Tutorial2/Content/Blueprints/Player/InputActions/IA_Jump.uasset" SILENT=true
+[2024.09.17-20.27.57:499][945]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/InputActions/IA_Jump
+[2024.09.17-20.27.57:499][945]LogSavePackage: Moving '../../../../GDW-5/Tutorial2/Tutorial2/Saved/IA_Jump291FF5AA48C33377CF04C3B4D1D6C04C.tmp' to '../../../../GDW-5/Tutorial2/Tutorial2/Content/Blueprints/Player/InputActions/IA_Jump.uasset'
+[2024.09.17-20.27.57:519][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.372 ms (total: 1.82 sec)
+[2024.09.17-20.27.57:531][945]LogStall: Shutdown...
+[2024.09.17-20.27.57:534][945]LogStall: Shutdown complete.
+[2024.09.17-20.27.57:551][945]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.09.17-20.27.57:551][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.17-20.27.57:586][945]LogSlate: Window 'Tutorial2 - Unreal Editor' being destroyed
+[2024.09.17-20.27.57:644][945]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.17-20.27.57:644][945]LogContentValidation: Enabled validators:
+[2024.09.17-20.27.57:644][945]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.17-20.27.57:644][945]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.17-20.27.57:644][945]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.17-20.27.57:644][945]LogContentValidation: Display: Validating asset /Game/Blueprints/Player/InputActions/IA_Jump.IA_Jump
+[2024.09.17-20.27.57:644][945]AssetCheck: /Game/Blueprints/Player/InputActions/IA_Jump Validating asset
+[2024.09.17-20.27.57:678][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.09.17-20.27.57:693][945]Cmd: QUIT_EDITOR
+[2024.09.17-20.27.57:694][945]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.09.17-20.27.57:695][946]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.09.17-20.27.57:696][946]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.09.17-20.27.57:696][946]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.09.17-20.27.57:708][946]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2024.09.17-20.27.57:708][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.17-20.27.57:708][946]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/Map.Map
+[2024.09.17-20.27.57:709][946]LogContentBundle: [Map(Standalone)] Deleting container.
+[2024.09.17-20.27.57:710][946]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.17-20.27.57:710][946]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.17-20.27.57:714][946]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.09.17-20.27.57:720][946]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.09.17-20.27.57:720][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.17-20.27.57:723][946]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.09.17-20.27.57:723][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.17-20.27.57:783][946]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.09.17-20.27.57:785][946]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.09.17-20.27.57:786][946]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.09.17-20.27.57:786][946]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.09.17-20.27.58:420][946]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.09.17-20.27.58:420][946]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.09.17-20.27.58:420][946]LogAudio: Display: Audio Device unregistered from world 'Map'.
+[2024.09.17-20.27.58:420][946]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.09.17-20.27.58:420][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.09.17-20.27.58:422][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.09.17-20.27.58:428][946]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.09.17-20.27.58:428][946]LogAudio: Display: Audio Device Manager Shutdown
+[2024.09.17-20.27.58:429][946]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.09.17-20.27.58:431][946]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.09.17-20.27.58:431][946]LogExit: Preparing to exit.
+[2024.09.17-20.27.58:466][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.09.17-20.27.58:471][946]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:472][946]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:475][946]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:475][946]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:475][946]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:475][946]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:475][946]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:475][946]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:475][946]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:475][946]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:475][946]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:475][946]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:476][946]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:476][946]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:476][946]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:476][946]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:476][946]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:476][946]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:476][946]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:476][946]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.58:476][946]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.09.17-20.27.59:098][946]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.09.17-20.27.59:114][946]LogExit: Editor shut down
+[2024.09.17-20.27.59:116][946]LogExit: Transaction tracking system shut down
+[2024.09.17-20.27.59:270][946]LogExit: Object subsystem successfully closed.
+[2024.09.17-20.27.59:328][946]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.09.17-20.27.59:993][946]MemoryProfiler: Shutdown
+[2024.09.17-20.27.59:993][946]NetworkingProfiler: Shutdown
+[2024.09.17-20.27.59:993][946]LoadingProfiler: Shutdown
+[2024.09.17-20.27.59:993][946]TimingProfiler: Shutdown
+[2024.09.17-20.28.00:202][946]LogOpenImageDenoise: OIDN shutting down
+[2024.09.17-20.28.00:465][946]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.09.17-20.28.00:472][946]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.09.17-20.28.00:472][946]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B86344423-408A-3116-5331-17B8C60A443F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=281865c34ddd0f944f8356968df8b822%7Cbc27a3a2e380436db5dfe767b3a4c002%7Cbe619813-9138-4657-8b51-279e46d3af3b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.09.17-20.28.00:507][946]RenderDocPlugin: plugin has been unloaded.
+[2024.09.17-20.28.00:511][946]LogPakFile: Destroying PakPlatformFile
+[2024.09.17-20.28.00:600][946]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.09.17-20.28.00:620][946]LogExit: Exiting.
+[2024.09.17-20.28.00:633][946]Log file closed, 09/17/24 16:28:00
